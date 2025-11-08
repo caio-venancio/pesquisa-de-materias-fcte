@@ -1,0 +1,107 @@
+*{
+    padding: 0;
+    margin: 0; /*By default, the body has 8px margin, so no more*/
+    box-sizing: border-box;
+    border: none;
+    outline: none;
+    font-family: "Poppins", sans-serif;
+    background-color: #f5f8ff;/*#4280be;  */
+}
+
+.wrapper {
+    /* border: 2px dotted black;   */
+    width: 95%;
+    margin: 0px auto;
+}
+
+.filter-wrapper {
+    position: relative;
+    background-color: #ffffff;
+    box-shadow: 0.25em 1em 1.5em  rgba(1, 41, 68, 0.06);
+    border: 1px solid rgb(225, 225, 235); /*PERGUNTAR GEOVANA*/
+    border-radius: 10px;
+    padding: 15px;
+    z-index: 1;
+}
+
+#search-container {
+    margin: 1em 0;
+    background-color: inherit;
+}
+
+#search-container input {
+    /* border: 2px dotted black;  */
+    background-color:transparent;
+    width: 40%;
+    border-bottom: 2px solid #8B8B8B; /*#110f29*/
+    padding: 1em 0.3em;
+}
+
+#search-container input:focus {
+    border-bottom-color: #007314;
+}
+
+#search-container button {
+    /* border: 3px dotted black; */
+    padding: 1em 2em;
+    margin-left: 1em;
+    background-color: #123C75;
+    color: #ffffff;
+    border-radius: 5px;
+    margin-top: 0.5em;
+}
+
+.button-value{
+    border: 2px solid #123C75;
+    padding: 1em 2em;
+    border-radius: 3em;
+    background-color: inherit; /* background-color: transparent; */
+    color: #123C75;
+    cursor: pointer;
+    margin-top: 0.5em;
+    transition: background-color 0.25s ease-out 1ms;
+    transition: color 0.25s ease-out 1ms;
+}
+
+/* .button-value2{
+    border: 2px solid #123C75;
+    padding: 1em 2em;
+    border-radius: 3em;
+    background-color: transparent;
+    color: #123C75;
+    cursor: pointer;
+    margin-top: 0.5em;
+} */
+
+.active {
+    background-color: #123C75;
+    color: #ffffff;
+}
+
+#buttons2 {
+    margin-top: 1em;
+    border-top: 2px solid #8B8B8B;
+    padding-top: 0.5em;
+    background-color: inherit;
+}
+
+#buttons1 {
+    background-color: inherit;
+}
+
+.button-value:hover:not(.active) {
+    background-color:#000C45;
+    color: white;
+}
+
+.button-value:active {
+    background-color: #123C75;
+}
+
+
+
+/* .button-value.active:hover { //perguntar Geovana
+    background-color: white;
+    color: #123C75;
+} */
+

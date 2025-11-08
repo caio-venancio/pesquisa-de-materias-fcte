@@ -1,0 +1,1442 @@
+[
+  {
+    "Código": "CIC0007",
+    "Nome": "INTRODUÇÃO À CIÊNCIA DA COMPUTAÇÃO",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "CIC0088",
+    "Nome": "COMPUTACAO BASICA",
+    "Horas": "90h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "DEG0200",
+    "Nome": "ATIVIDADE COMPLEMENTAR",
+    "Horas": "15h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "DEG0201",
+    "Nome": "ATIVIDADE COMPLEMENTAR",
+    "Horas": "30h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "DEG0202",
+    "Nome": "ATIVIDADE COMPLEMENTAR",
+    "Horas": "45h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "DEG0203",
+    "Nome": "ATIVIDADE COMPLEMENTAR",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "DEG0205",
+    "Nome": "ATIVIDADE COMPLEMENTAR",
+    "Horas": "90h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "DEG0206",
+    "Nome": "ATIVIDADE COMPLEMENTAR",
+    "Horas": "120h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "DEG0207",
+    "Nome": "ATIVIDADE COMPLEMENTAR",
+    "Horas": "150h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "DEG0208",
+    "Nome": "ATIVIDADE COMPLEMENTAR",
+    "Horas": "180h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "DEG0209",
+    "Nome": "ATIVIDADE COMPLEMENTAR",
+    "Horas": "210h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "DEG0210",
+    "Nome": "ATIVIDADE COMPLEMENTAR",
+    "Horas": "240h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "DEG0211",
+    "Nome": "ATIVIDADE COMPLEMENTAR",
+    "Horas": "270h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "DEG0212",
+    "Nome": "ATIVIDADE COMPLEMENTAR",
+    "Horas": "300h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "DEG0213",
+    "Nome": "ATIVIDADE COMPLEMENTAR",
+    "Horas": "330h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "DEG0214",
+    "Nome": "ATIVIDADE COMPLEMENTAR",
+    "Horas": "360h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "DEG0215",
+    "Nome": "ATIVIDADE COMPLEMENTAR",
+    "Horas": "390h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "DEG0216",
+    "Nome": "ATIVIDADE COMPLEMENTAR",
+    "Horas": "420h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "DEG0217",
+    "Nome": "ATIVIDADE COMPLEMENTAR",
+    "Horas": "450h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "DEG0218",
+    "Nome": "ATIVIDADE COMPLEMENTAR",
+    "Horas": "480h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "DEG0219",
+    "Nome": "ATIVIDADE COMPLEMENTAR",
+    "Horas": "510h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "ENE0277",
+    "Nome": "SISTEMAS DIGITAIS 1",
+    "Horas": "90h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0003",
+    "Nome": "COMPILADORES 1",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0147 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0004",
+    "Nome": "TÉCNICAS DE MEDIÇÃO FUNCIONAL E ESTIMATIVAS DE SOFTWARE",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0172 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0007",
+    "Nome": "CONFIABILIDADE DE COMPONENTES E SISTEMAS",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0157 E FGA0179 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0023",
+    "Nome": "DINÂMICA DOS MECANISMOS",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0154 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0026",
+    "Nome": "FUNDAMENTOS DE ARQUITETURA DE SOFTWARE",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0172 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0027",
+    "Nome": "PRINCÍPIOS DE ROBÓTICA EDUCACIONAL",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( CIC0007 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0028",
+    "Nome": "PROGRAMAÇÃO PARA COMPETIÇÕES",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( CIC0004 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0030",
+    "Nome": "ESTRUTURAS DE DADOS 2",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0147 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0031",
+    "Nome": "SEMINÁRIOS EM ENGENHARIA DE SOFTWARE",
+    "Horas": "30h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( CIC0007 ) OU ( CIC0088 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0033",
+    "Nome": "TÓPICOS ESPECIAIS EM FÍSICA APLICADA",
+    "Horas": "30h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( IFD0171 E MAT0048 ) OU ( MAT0026 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0034",
+    "Nome": "TÓPICOS ESPECIAIS EM MATEMÁTICA APLICADA",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( MAT0048 ) OU ( MAT0026 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0036",
+    "Nome": "PRÉ-CÁLCULO PARA ENGENHARIA",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0037",
+    "Nome": "TÓPICOS ESPECIAIS EM ENGENHARIA AEROESPACIAL",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0041",
+    "Nome": "TÓPICOS ESPECIAIS EM JOGOS DIGITAIS",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( CIC0007 ) OU ( CIC0088 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0042",
+    "Nome": "TÓPICOS ESPECIAIS EM SISTEMAS CRÍTICOS",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( CIC0007 ) OU ( CIC0088 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0044",
+    "Nome": "PROJETO DE SISTEMAS DE CONTROLE",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0197 ) OU ( FGA0093 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0046",
+    "Nome": "MÉTODOS E TÉCNICAS DA ESCRITA CIENTÍFICA",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0047",
+    "Nome": "PROCESSOS PETROQUÍMICOS",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0156 E FGA0175 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0049",
+    "Nome": "PROJETO DE SISTEMAS AEROESPACIAIS",
+    "Horas": "90h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0038 E FGA0045 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0052",
+    "Nome": "PROPULSÃO AEROESPACIAL",
+    "Horas": "90h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0043 E ENM0071 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0053",
+    "Nome": "TÓPICOS ESPECIAIS EM PROGRAMAÇÃO",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0054",
+    "Nome": "TÓPICOS ESPECIAIS EM GOVERNANÇA DE TECNOLOGIA DA INFORMAÇÃO",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0055",
+    "Nome": "TECNOLOGIAS DE FABRICAÇÃO 1",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0078 E FGA0075 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0056",
+    "Nome": "TECNOLOGIAS DE FABRICAÇÃO 2",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0078 E FGA0075 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0062",
+    "Nome": "PROJETO DE SISTEMAS DE OBSERVAÇÃO DA TERRA",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "MAT0027",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0063",
+    "Nome": "PROPULSÃO AERONÁUTICA",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0043 E ENM0071 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0064",
+    "Nome": "PROPULSÃO QUÍMICA",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0052 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0065",
+    "Nome": "PROPULSÃO ELÉTRICA",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0052 E FGA0143 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0066",
+    "Nome": "FUNDAMENTOS DE VARIÁVEL COMPLEXA PARA ENGENHARIA",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( MAT0027 E MAT0031 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0080",
+    "Nome": "CONTROLE DE SISTEMAS AEROESPACIAIS",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0044 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0082",
+    "Nome": "ENGENHARIA DE SISTEMAS AEROESPACIAIS",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0049 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0090",
+    "Nome": "ONDULATÓRIA E FÍSICA TÉRMICA PARA ENGENHARIA",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( MAT0025 E IFD0171 E IFD0173 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0104",
+    "Nome": "QUÍMICA ORGÂNICA APLICADA À ENGENHARIA",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( IQD0125 E IQD0126 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0105",
+    "Nome": "TÓPICOS ESPECIAIS 2 EM ENGENHARIA AEROESPACIAL",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0106",
+    "Nome": "TÓPICOS ESPECIAIS 3 EM ENGENHARIA AEROESPACIAL",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0121",
+    "Nome": "TÓPICOS ESPECIAIS 4 EM ENGENHARIA AEROESPACIAL",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0123",
+    "Nome": "CÁLCULO PARA ENGENHARIA 1",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0125",
+    "Nome": "INTRODUÇÃO À GEOMETRIA ANALÍTICA",
+    "Horas": "30h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0126",
+    "Nome": "CÁLCULO PARA ENGENHARIA 2",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0123 ) OU ( MAT0025 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0127",
+    "Nome": "EQUAÇÕES DIFERENCIAIS ORDINÁRIAS",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0126 E MAT0031 ) OU ( MAT0026 E MAT0031 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0128",
+    "Nome": "CÁLCULO PARA ENGENHARIA 3",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0126 E FGA0125 ) OU ( FGA0126 E MAT0010 ) OU ( MAT0026 E FGA0125 ) OU ( MAT0026 E MAT0010 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0134",
+    "Nome": "TÓPICOS ESPECIAIS DE ENGENHARIA DE SOFTWARE",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0137",
+    "Nome": "SISTEMAS DE BANCO DE DADOS 1",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0159 ) OU ( FGA0108 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0138",
+    "Nome": "MÉTODOS DE DESENVOLVIMENTO DE SOFTWARE",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0158 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0141",
+    "Nome": "GESTÃO AMBIENTAL NO SETOR ENERGÉTICO",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0302 E FGA0307 ) OU ( FGA0161 E FGA0184 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0142",
+    "Nome": "FUNDAMENTOS DE ARQUITETURA DE COMPUTADORES",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( ENE0277 ) OU ( FGA0071 E FGA0073 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0143",
+    "Nome": "FUNDAMENTOS DA TEORIA ELETROMAGNÉTICA",
+    "Horas": "90h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( IFD0171 E MAT0027 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0144",
+    "Nome": "FÍSICA MODERNA",
+    "Horas": "90h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( MAT0027 E IFD0171 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0146",
+    "Nome": "ESTRUTURAS DE DADOS 1",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0152",
+    "Nome": "ERGONOMIA DO PRODUTO",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0155 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0155",
+    "Nome": "INTRODUÇÃO AO DESIGN E CONCEPÇÃO DE VEÍCULOS",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0168 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0156",
+    "Nome": "COMBUSTÍVEIS E BIOCOMBUSTÍVEIS",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( FGA0104 )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0158",
+    "Nome": "ORIENTAÇÃO A OBJETOS",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( CIC0004 ) OU ( CIC0007 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0159",
+    "Nome": "ESTRUTURAS MATEMÁTICAS PARA COMPUTAÇÃO",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0165",
+    "Nome": "PROCESSO DE DESENVOLVIMENTO DE SOFTWARE",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0166",
+    "Nome": "ELEMENTOS E MÉTODOS EM ELETRÔNICA",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0167",
+    "Nome": "SISTEMAS AUTOMOTIVOS",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0169",
+    "Nome": "FONTES DE ENERGIA E TECNOLOGIAS DE CONVERSÃO",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0172",
+    "Nome": "REQUISITOS DE SOFTWARE",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0138 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0175",
+    "Nome": "ENGENHARIA DE PETRÓLEO E GÁS",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ENM0080 )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0187",
+    "Nome": "MÉTODOS MATEMÁTICOS PARA ENGENHARIA",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( MAT0027 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0188",
+    "Nome": "MÉTODOS EXPERIMENTAIS PARA ENGENHARIA",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( IFD0173 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0191",
+    "Nome": "MATERIAIS COMPOSTOS E PLÁSTICOS",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0075 E FGA0078 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0196",
+    "Nome": "CIRCUITOS ELETRÔNICOS 1",
+    "Horas": "90h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( MAT0048 ) OU ( MAT0026 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0199",
+    "Nome": "PRINCÍPIOS DE COMUNICAÇÃO",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0187 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0229",
+    "Nome": "ANÁLISE ESTRUTURAL MÉTODO DOS ELEMENTOS FINITOS",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0179 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0248",
+    "Nome": "SISTEMAS DE PROPULSÃO HÍBRIDOS",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( ENM0080 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0249",
+    "Nome": "DESENVOLVIMENTO AVANÇADO DE SOFTWARE",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0154 E FGA0157 ) OU ( FGA0160 ) OU ( FGA0159 E FGA0158 E ENE0277 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0281",
+    "Nome": "SISTEMAS DE PROPULSÃO LIQUIDA",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( FGA0043 )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0282",
+    "Nome": "FUNDAMENTOS DO PROJETO DE AERONAVES",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( FGA0039 E FGA0045 )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0283",
+    "Nome": "MECÂNICA DOS MATERIAIS COMPÓSITOS",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( FGA0179 OU FGA0178 )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0286",
+    "Nome": "FUNDAMENTOS DO MÉTODO DOS ELEMENTOS FINITOS",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( FGA0160 E FGA0179 E ENM0080 )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0289",
+    "Nome": "SISTEMAS DE PROPULSÃO SÓLIDA E HÍBRIDA",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( FGA0043 )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0291",
+    "Nome": "MECÂNICA DE ESTRUTURAS AERONÁUTICAS",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( FGA0039 )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0293",
+    "Nome": "FUNDAMENTOS DE MÉTODOS DE OTIMIZAÇÃO",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( FGA0160 E MAT0027 )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FTD0007",
+    "Nome": "INTRODUCAO A ATIVIDADE EMPRESARIAL",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "LIP0174",
+    "Nome": "LÍNGUA DE SINAIS BRASILEIRA - BÁSICO",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "CIC0004",
+    "Nome": "ALGORITMOS E PROGRAMAÇÃO DE COMPUTADORES",
+    "Horas": "90h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "1º Nível",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0161",
+    "Nome": "ENGENHARIA E AMBIENTE",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "1º Nível",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0163",
+    "Nome": "INTRODUÇÃO À ENGENHARIA",
+    "Horas": "30h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "1º Nível",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0168",
+    "Nome": "DESENHO INDUSTRIAL ASSISTIDO POR COMPUTADOR",
+    "Horas": "90h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "1º Nível",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "MAT0025",
+    "Nome": "CÁLCULO 1",
+    "Horas": "90h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "1º Nível",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0157",
+    "Nome": "PROBABILIDADE E ESTATÍSTICA APLICADO A ENGENHARIA",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "2º Nível",
+    "Pré-Requisitos": "( ( MAT0025 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0254",
+    "Nome": "CIÊNCIAS AEROESPACIAIS",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "2º Nível",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "IFD0171",
+    "Nome": "FISICA 1",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "2º Nível",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "IFD0173",
+    "Nome": "FISICA 1 EXPERIMENTAL",
+    "Horas": "30h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "2º Nível",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "MAT0026",
+    "Nome": "CÁLCULO 2",
+    "Horas": "90h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "2º Nível",
+    "Pré-Requisitos": "( ( MAT0025 ) OU ( MAT0024 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "MAT0031",
+    "Nome": "INTRODUCAO A ALGEBRA LINEAR",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "2º Nível",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0008",
+    "Nome": "SISTEMAS AEROESPACIAIS",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "3º Nível",
+    "Pré-Requisitos": "( ( IFD0171 E FGA0254 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0133",
+    "Nome": "ENGENHARIA ECONÔMICA",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "3º Nível",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0154",
+    "Nome": "MECANICA DOS SÓLIDOS 1 PARA ENGENHARIA",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "3º Nível",
+    "Pré-Requisitos": "( ( IFD0171 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0160",
+    "Nome": "MÉTODOS NUMÉRICOS PARA ENGENHARIA",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "3º Nível",
+    "Pré-Requisitos": "( ( MAT0026 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "IQD0125",
+    "Nome": "QUIMICA GERAL TEORICA",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "3º Nível",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "IQD0126",
+    "Nome": "QUIMICA GERAL EXPERIMENTAL",
+    "Horas": "30h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "3º Nível",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "MAT0027",
+    "Nome": "CÁLCULO 3",
+    "Horas": "90h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "3º Nível",
+    "Pré-Requisitos": "( ( MAT0026 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "ENM0080",
+    "Nome": "FENOMENOS DE TRANSPORTE",
+    "Horas": "75h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "4º Nível",
+    "Pré-Requisitos": "( ( MAT0027 E ENC0132 ) OU ( MAT0027 E ENM0120 ) OU ( MAT0027 E FGA0154 ) OU ( MAT0027 E ENC0035 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0102",
+    "Nome": "SINAIS E SISTEMAS PARA ENGENHARIA",
+    "Horas": "90h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "4º Nível",
+    "Pré-Requisitos": "( ( MAT0027 E CIC0004 ) OU ( MAT0027 E CIC0088 ) OU ( MAT0027 E CIC0007 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0150",
+    "Nome": "PROJETO INTEGRADOR DE ENGENHARIA 1",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "4º Nível",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0179",
+    "Nome": "MECANICA DOS SÓLIDOS 2 PARA ENGENHARIA",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "4º Nível",
+    "Pré-Requisitos": "( ( FGA0154 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "ENM0068",
+    "Nome": "TERMODINAMICA 1",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "5º Nível",
+    "Pré-Requisitos": "( ( IFD0175 ) OU ( IFD0013 ) OU ( ENM0080 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0075",
+    "Nome": "LABORATÓRIO DE MATERIAIS DE CONSTRUÇÃO",
+    "Horas": "15h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "5º Nível",
+    "Pré-Requisitos": "( ( IQD0051 ) OU ( IQD0125 E IQD0126 ) )",
+    "Co-Requisitos": "( FGA0078 )"
+  },
+  {
+    "Código": "FGA0078",
+    "Nome": "TEORIA DE MATERIAIS DE CONSTRUÇÃO",
+    "Horas": "45h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "5º Nível",
+    "Pré-Requisitos": "( ( IQD0051 ) OU ( IQD0125 E IQD0126 ) )",
+    "Co-Requisitos": "( FGA0075 )"
+  },
+  {
+    "Código": "FGA0086",
+    "Nome": "TEORIA DE ELETRICIDADE APLICADA",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "5º Nível",
+    "Pré-Requisitos": "( ( FGA0187 ) OU ( FGA0067 E FGA0069 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0087",
+    "Nome": "LABORATÓRIO DE ELETRICIDADE APLICADA",
+    "Horas": "30h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "5º Nível",
+    "Pré-Requisitos": "( ( FGA0187 ) OU ( FGA0067 E FGA0069 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0119",
+    "Nome": "TEORIA DE ELETROMAGNETISMO",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "5º Nível",
+    "Pré-Requisitos": "( ( IFD0171 E MAT0027 ) )",
+    "Co-Requisitos": "( FGA0120 )"
+  },
+  {
+    "Código": "FGA0120",
+    "Nome": "PRÁTICA DE ELETROMAGNETISMO",
+    "Horas": "30h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "5º Nível",
+    "Pré-Requisitos": "( ( IFD0171 E MAT0027 ) )",
+    "Co-Requisitos": "( FGA0119 )"
+  },
+  {
+    "Código": "FGA0204",
+    "Nome": "DINÂMICA DOS FLUÍDOS",
+    "Horas": "75h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "5º Nível",
+    "Pré-Requisitos": "( ( ENM0080 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "ENM0071",
+    "Nome": "TRANSFERENCIA DE CALOR",
+    "Horas": "90h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "6º Nível",
+    "Pré-Requisitos": "( ( ENM0068 E ENM0082 ) OU ( ENM0128 E ENM0082 ) OU ( ENM0068 E FGA0204 ) OU ( ENM0068 E IQD0005 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0038",
+    "Nome": "AERODINÂMICA DE SISTEMAS AEROESPACIAIS",
+    "Horas": "75h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "6º Nível",
+    "Pré-Requisitos": "( ( FGA0204 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0164",
+    "Nome": "HUMANIDADES E CIDADANIA",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "6º Nível",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0184",
+    "Nome": "GESTÃO DA PRODUÇÃO E QUALIDADE",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "6º Nível",
+    "Pré-Requisitos": "( FGA0133 )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0197",
+    "Nome": "SISTEMAS DE CONTROLE",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "6º Nível",
+    "Pré-Requisitos": "( ( FGA0187 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0039",
+    "Nome": "MECÂNICA DE ESTRUTURAS AEROESPACIAIS",
+    "Horas": "75h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "7º Nível",
+    "Pré-Requisitos": "( ( FGA0179 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0043",
+    "Nome": "DINÂMICA DOS GASES PARA SISTEMAS AEROESPACIAIS",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "7º Nível",
+    "Pré-Requisitos": "( ( FGA0038 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0045",
+    "Nome": "MECÂNICA DO VÔO",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "7º Nível",
+    "Pré-Requisitos": "( ( FGA0008 E FGA0038 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0148",
+    "Nome": "ENGENHARIA DE SEGURANÇA DO TRABALHO",
+    "Horas": "30h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "7º Nível",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0048",
+    "Nome": "MECÂNICA DO VOO ESPACIAL",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "8º Nível",
+    "Pré-Requisitos": "( ( FGA0045 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0050",
+    "Nome": "DINÂMICA DE ESTRUTURAS AEROESPACIAIS",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "8º Nível",
+    "Pré-Requisitos": "( ( FGA0039 E FGA0102 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0250",
+    "Nome": "PROJETO INTEGRADOR DE ENGENHARIA 2",
+    "Horas": "90h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "8º Nível",
+    "Pré-Requisitos": "( ( FGA0150 ) OU ( ENM0071 ) OU ( ENE0130 ) OU ( FGA0230 ) OU ( FGA0228 ) OU ( FGA0226 ) OU ( FGA0217 ) OU ( FGA0218 ) OU ( FGA0220 ) OU ( FGA0206 ) OU ( FGA0088 E FGA0089 ) OU ( FGA0103 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0009",
+    "Nome": "TRABALHO DE CONCLUSÃO DE CURSO 1",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "9º Nível",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0021",
+    "Nome": "ESTÁGIO SUPERVISIONADO",
+    "Horas": "210h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "9º Nível",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0011",
+    "Nome": "TRABALHO DE CONCLUSÃO DE CURSO 2",
+    "Horas": "90h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Aeroespacial",
+    "Nível": "10º Nível",
+    "Pré-Requisitos": "( ( FGA0287 ) OU ( FGA0009 ) )",
+    "Co-Requisitos": "-"
+  }
+]

@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- tem que declarar scripts como módulos e antes de body quando tem await functions. -->
+    <script type="module" src="scripts/script.js"></script> 
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>filterNsearch - Home</title>
+    <link rel="stylesheet" href="styles/style-nav-buttons.css">
+    <link rel="stylesheet" href="styles/style-header.css">
+    <link rel="stylesheet" href="styles/style-footer.css">
+    <link rel="stylesheet" href="styles/style-products.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    <link rel="icon" type="image/x-icon" href="images/favicon-2.ico">
+</head>
+<body>
+
+    <header>
+        <div class="logo-wrapper">
+            <div class="logo float-child">
+                <!-- <a class="logo-img">Logo</a> -->
+                Logo
+            </div>
+            <div class="logotipo">
+                <h3 class="titulo-logotipo float-child">Pesquisa de Matérias</h3> <!-- Mas não é tudo sobre as matérias...-->
+                <!-- <h3 class="titulo-logotipo">Filtro de Matérias</h3> -->
+                <!-- <h3 class="titulo-logotipo">Investiga Matérias</h3> -->
+                <!-- <h3 class="titulo-logotipo">Pesquisa de Matérias</h3> -->
+            </div>
+        </div>
+        <nav class="nav-bar">
+            <a class="home" href="/index.html">Home</a>
+            <a class="about-me" href="/sobre.html" >Sobre</a>
+        </nav>
+    </header>
+
+    
+
+    <main class="main">
+        <div class="wrapper">
+            <div class="filter-wrapper">
+                <div id="search-container">
+                    <input
+                    type="search"
+                    id="search-input"
+                    placeholder="Procure a matéria aqui"/>
+                    <button id="search" onclick="filtragem('barraDePesquisa', 0, 1)">Procurar</button>
+                </div>
+                <div id="buttons1">
+                    <button class="button-value active" onclick="filtragem('seletividade','Todas', 1)">Todas</button>
+                    <button class="button-value" onclick="filtragem('seletividade','Optativas', 1)">Optativas</button>
+                    <button class="button-value" onclick="filtragem('seletividade','Obrigatórias', 1)">Obrigatórias</button>
+                </div>
+                <div id="buttons2">
+                    <button class="button-value active" onclick="filtragem('curso','Todos',1)">Todos</button>
+                    <button class="button-value" onclick="filtragem('curso','Aeroespacial',1)">Aeroespacial</button>
+                    <button class="button-value" onclick="filtragem('curso','Automotiva',1)">Automotiva</button>
+                    <button class="button-value" onclick="filtragem('curso','Eletrônica',1)">Eletrônica</button>
+                    <button class="button-value" onclick="filtragem('curso','Energia',1)">Energia</button>
+                    <button class="button-value" onclick="filtragem('curso','Software',1)">Software</button>
+                </div>
+            </div>
+            
+            <div class="content">
+                <div id="Resultados">
+                    <h6>Resultados:<span class="results-number"></span></h6>
+                    <div class="filter-button-div">
+                        <button class="filter-button" type='button'> Ordenar por: </button>    
+                        <ul class="filter-list">
+                            <li class="filter-item alfa" onclick="sortAlphabetically()"><button>Alfabética</button></li>
+                            <li class="filter-item fluxo" onclick="sortLevel()"><button>Fluxograma</button></li>
+                            <li class="filter-item code"onclick="sortCode()"><button>Código</button></li>
+                            <li class="filter-item alea" onclick="sortRandom()"><button>Aleatório</button></li>
+                        </ul>
+                    </div>
+                </div>
+                <div id="products"></div>
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <div class="outer-footer">
+            <section class="footer-section">
+                <div class="footer-border-bottom">
+                    <div class="footer-div mob">
+                        <span class="text1-footer">Gama</span>
+                        <div class="text2-footer">Sua localização, por <button class="easter-egg" onclick="easterEgg()">Pesquisa</button> de Matérias</div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </footer>
+
+
+    <!-- script -->
+    <script src="scripts/filterFunction.js"></script>
+    <script src="scripts/sortFunction.js"></script>
+    <!-- <script src="scripts/secondFilter.js"></script> -->
+    <!-- <script id="data" type="application/json" src="./data/estru_auto.json"></script> -->
+</body>
+
+</html>

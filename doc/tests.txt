@@ -1,0 +1,19 @@
+Primeiro:
+    Todas as matérias tem que ter a mesma quantidade de matérias do que seu CSV correspondente
+    CHECK
+
+Segundo:
+    O filtro tem que está logicamente certo para todas suas 30* opções de filtragem (excluindo a pesquisa)
+
+    Todos - a matéria vai aparecer, não importa se for optativa e obrigatória
+    Optativa - a matéria só aparece se tiver em optativa
+    Obrigatória - a matéria só aparece se tiver em obrigatória
+
+    Todas - vale todas as matérias, desde que apareça no critério acima
+    Uma matéria - essa matéria TEM que aparecer, no campo selecionado
+    Duas matérias ou mais - Aparece se tiver todas as matérias citadas no campo selecionado
+
+    Checar tudo isso
+
+    Testar semestres dos níveis
+    Testar aparição das matérias

@@ -1,0 +1,173 @@
+
+
+#Resultados{
+    padding-top: 1em;
+    background-color: #f5f8ff;
+}
+
+#Resultados h6 {
+    background-color: inherit;
+    display: inline;
+    font-size: 0.67em;
+    font-weight: 400;
+}
+
+.filter-button-div {
+    display: inline;
+}
+
+.filter-button {
+    margin-left: 10px;
+    padding: 5px;
+    display: inline;
+
+    background-color: #dadde4;
+    border-radius: 5px;
+    font-size: 0.67em;
+    font-weight: 400;
+}
+
+.filter-button:hover {
+    background-color: #b5b8bf;
+}
+
+.filter-button-div:hover .filter-list{
+    display: inline;
+}
+
+.filter-list {
+    display: none;
+
+    /* background-color: #d5d8df; */
+    border-radius: 5px;
+    /* transition: 2s */
+}
+
+.filter-item {
+    display: inline;
+    background-color: #d5d8df;
+    border-radius: 5px;
+}
+
+.filter-item button {
+    display: inline;
+
+    background-color: #d5d8df;
+    font-size: 0.67em;
+    font-weight: 400;
+    padding-right: 10px;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.filter-item button:hover {
+    background-color: #b5b8bf;
+}
+
+.filter-item button:active {
+    background-color: #dadde4;
+}
+
+.filter-item button:after {
+    background-color: #dadde4;
+}
+
+
+#products {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr; /**/
+    grid-column-gap: 1.5em;
+    padding: 0 0;
+    z-index: 0;
+}
+
+.card{
+    background-color: #ffffff; 
+    /* border: 2px solid black; */
+    max-width: 28em;
+    margin-top: 1em;
+    /* padding: 1em; */
+    padding: 0 1em 1em 1em;
+    border-radius: 5px;
+    box-shadow: 1em 2em 2.5em rgba(1, 41, 68, 0.08);
+    /* border: 1px solid rgb(225, 225, 235); PERGUNTAR GEOVANA */
+}
+
+.container {
+    /* display: inline-block; */
+    /* overflow: auto; */
+    float: left;
+    width: 65%; /*o caminho para a responsividade está em width: 100%*/
+    padding-top: 1em;
+    color: #110f29;
+    height: 100%
+
+}
+
+.product-name, .container {
+    background-color: #ffffff;
+}
+    
+.container h5, h4, h6 {
+    font-weight: 500;
+    background-color: #ffffff;
+}
+
+/* Adicionar layout para quando tiver abaixo de 570px de largura */
+@media screen and (max-width: 720px) { 
+    .card {
+        /* max-width: 10em; */
+        margin: 1em 1em;
+        /* margin-top: 1em; */
+    }
+
+    #products {
+        grid-template-columns: 1fr 1fr;
+        grid-column-gap: 0.5em;
+    }
+}
+
+.hide, .hide-2 {
+    display: none;
+}
+
+.main{
+    margin-bottom: 64px;
+}
+
+.nivel-div{ 
+    padding-top: 1em;
+    background-color: inherit;
+    /* width: 100%; */
+}
+
+.nested-nivel {
+    /* float:right;
+    overflow: auto; */
+    background-color: inherit;
+    padding-left: 10px;
+    word-wrap: break-word;
+}
+
+.nested-nivel h5{
+    background-color: inherit;
+    font-weight: 400;
+}
+
+.nested-nivel span {
+    background-color: inherit;
+    font-weight: 400;
+}
+
+.class-nivel {
+    border-bottom: 1px solid rgb(205, 205, 215);
+}
+
+@media screen and (max-width: 400px) {
+    #products {
+        grid-template-columns: 1fr; /**/
+        grid-column-gap: 1.5em;
+        padding: 0 0;
+        z-index: 0;
+    }
+}

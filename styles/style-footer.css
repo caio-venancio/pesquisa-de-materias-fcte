@@ -1,0 +1,126 @@
+/* https://www.google.com/search?q=lol&oq=lol&gs_lcrp=EgZjaHJvbWUyDwgAEEUYORiDARixAxiABDINCAEQABiDARixAxiABDINCAIQABiDARixAxiABDIKCAMQABixAxiABDIQCAQQABiDARixAxiABBiKBTIKCAUQABixAxiABDIQCAYQABiDARixAxiABBiKBTIKCAcQABixAxiABDIGCAgQRRg80gEIMTIzMmowajGoAgCwAgA&sourceid=chrome&ie=UTF-8 */
+/* https://mailchimp.com/pt-br/resources/website-footer-design-examples/#:~:text=O%20rodap%C3%A9%20de%20um%20site,sua%20marca%2C%20produto%20ou%20servi%C3%A7o. */
+
+/* footer {
+    display: block;
+    position: relative;
+
+    padding-top: 20px;
+    height: 106px;
+    width: 100%;
+
+    background-color: blue;
+} */
+
+.outer-footer{
+    display: block;
+    position: relative;
+
+    box-sizing:content-box;
+    padding-top: 12px;
+    height: 106px;
+
+    
+    background-color: transparent;
+}
+
+.footer-section {
+    display: block;
+    position: absolute;
+    bottom: 0;
+
+
+    padding: 12px 0px;
+    width: 100%;
+    
+    background-color: rgb(230, 230, 240);
+    /* background-color: red; */
+}
+
+.footer-border-bottom {
+
+    border-bottom: 1px solid rgb(205, 205, 215);
+
+    background-color: transparent;
+}
+
+.footer-div {
+    display: block;
+
+    padding-left: 27px;
+    
+    background-color: rgb(230, 230, 240);
+    /* background-color: red; */
+
+    line-height: 40px; /*Faz a barra ser 40px*/
+    font-size: 14px;
+}
+
+.text1-footer {
+    /* COLOCAR NO SPAN O TEXTO */
+
+    background-color: transparent;
+
+    font-size: 14px;
+}
+
+.text2-footer {
+    /* COLOCAR NO SPAN O TEXTO */
+
+    display: inline-block;
+
+    margin-left: 13px;
+    border-left: 0.8px solid rgb(205, 205, 215);
+    padding-left: 16px;
+    background-color: transparent;
+
+    font-size: 14px;
+}
+
+.easter-egg {
+    background-color: inherit;
+
+    cursor: pointer;
+}
+
+.image-normalizer {
+    width: 80px;
+    height: auto;
+    background-color: inherit;
+    position: absolute;
+    bottom: 12px;
+}
+
+/* .red { */
+    /* background-color: red; */
+/* } */
+
+
+/* AJEITAR MOB */
+.mob{
+    margin-left: var(--center-abs-margin);
+}
+
+@media (min-width: 1475px) and (max-width:1675px) {
+    .mob {
+        --center-abs-margin:calc(25vw + -188.75px)
+    }
+}
+
+@media (min-width: 1675px) {
+    .mob {
+        --center-abs-margin:230px
+    }
+}
+
+@media (min-width: 1124px) and (max-width:1300px) {
+    .mob {
+        --center-abs-margin:calc((100vw - 1068px)/2);
+    }
+}
+
+@media (max-width: 1124px) {
+    .mob {
+        --center-abs-margin:28px
+    }
+}

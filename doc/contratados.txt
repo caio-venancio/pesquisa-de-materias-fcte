@@ -1,0 +1,6 @@
+Noboru - fazer logo vetorial (svg)
+    se eu ganhar 10 reais, eu dou 1 (10%)
+    se eu ganhar 100 reais, eu dou 5 (5%)
+    se eu ganhar 1000 reais, eu dou 50 (5%)
+    se eu ganhar 10000 reais, eu dou (5%)
+    se eu ganhar 1000000 reais, eu dou (1%)

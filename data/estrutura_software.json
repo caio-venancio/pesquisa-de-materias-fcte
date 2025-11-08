@@ -1,0 +1,1122 @@
+[
+  {
+    "Código": "CIC0191",
+    "Nome": "INTRODUÇÃO AO DESENVOLVIMENTO DE JOGOS",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Software",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( CIC0197 ) OU ( CIC0090 E CIC0008 ) OU ( CIC0151 ) OU ( FGA0147 E FGA0158 E FGA0208 ) OU ( ENE0024 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "ENM0080",
+    "Nome": "FENOMENOS DE TRANSPORTE",
+    "Horas": "75h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Software",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( MAT0027 E ENC0132 ) OU ( MAT0027 E ENM0120 ) OU ( MAT0027 E FGA0154 ) OU ( MAT0027 E ENC0035 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FEF0105",
+    "Nome": "PRÁTICA DESPORTIVA",
+    "Horas": "30h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Software",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0006",
+    "Nome": "FUNDAMENTOS DE EQUAÇÕES DIFERENCIAIS PARA ENGENHARIA",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Software",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( MAT0031 E MAT0027 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0008",
+    "Nome": "SISTEMAS AEROESPACIAIS",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Software",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( IFD0171 E FGA0254 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0027",
+    "Nome": "PRINCÍPIOS DE ROBÓTICA EDUCACIONAL",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Software",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( CIC0007 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0028",
+    "Nome": "PROGRAMAÇÃO PARA COMPETIÇÕES",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Software",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( CIC0004 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0031",
+    "Nome": "SEMINÁRIOS EM ENGENHARIA DE SOFTWARE",
+    "Horas": "30h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Software",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( CIC0007 ) OU ( CIC0088 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0034",
+    "Nome": "TÓPICOS ESPECIAIS EM MATEMÁTICA APLICADA",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Software",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( MAT0048 ) OU ( MAT0026 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0038",
+    "Nome": "AERODINÂMICA DE SISTEMAS AEROESPACIAIS",
+    "Horas": "75h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Software",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0204 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0041",
+    "Nome": "TÓPICOS ESPECIAIS EM JOGOS DIGITAIS",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Software",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( CIC0007 ) OU ( CIC0088 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0043",
+    "Nome": "DINÂMICA DOS GASES PARA SISTEMAS AEROESPACIAIS",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Software",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0038 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0045",
+    "Nome": "MECÂNICA DO VÔO",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Software",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0008 E FGA0038 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0046",
+    "Nome": "MÉTODOS E TÉCNICAS DA ESCRITA CIENTÍFICA",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Software",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0053",
+    "Nome": "TÓPICOS ESPECIAIS EM PROGRAMAÇÃO",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Software",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0054",
+    "Nome": "TÓPICOS ESPECIAIS EM GOVERNANÇA DE TECNOLOGIA DA INFORMAÇÃO",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Software",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0066",
+    "Nome": "FUNDAMENTOS DE VARIÁVEL COMPLEXA PARA ENGENHARIA",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Software",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( MAT0027 E MAT0031 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0072",
+    "Nome": "PRÁTICA DE ELETRÔNICA DIGITAL 2",
+    "Horas": "30h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Software",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( ENE0277 ) OU ( FGA0073 E FGA0071 ) )",
+    "Co-Requisitos": "( FGA0074 )"
+  },
+  {
+    "Código": "FGA0074",
+    "Nome": "TEORIA DE ELETRÔNICA DIGITAL 2",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Software",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( ENE0277 ) OU ( FGA0073 E FGA0071 ) )",
+    "Co-Requisitos": "( FGA0072 )"
+  },
+  {
+    "Código": "FGA0083",
+    "Nome": "APRENDIZADO DE MÁQUINA",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Software",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( MAT0031 E FGA0147 E FGA0157 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0084",
+    "Nome": "DESENVOLVIMENTO DE SOFTWARE",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Software",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( CIC0004 ) OU ( CIC0007 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0090",
+    "Nome": "ONDULATÓRIA E FÍSICA TÉRMICA PARA ENGENHARIA",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Software",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( MAT0025 E IFD0171 E IFD0173 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0111",
+    "Nome": "INTRODUÇÃO À WEB SEMÂNTICA",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Software",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0137 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0112",
+    "Nome": "QUALIDADE DE SOFTWARE 2",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Software",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0278 OU FGA0315 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0125",
+    "Nome": "INTRODUÇÃO À GEOMETRIA ANALÍTICA",
+    "Horas": "30h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Software",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0129",
+    "Nome": "PROCESSAMENTO DIGITAL DE SINAIS FINANCEIROS",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Software",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0102 ) OU ( MAT0026 E FGA0157 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0134",
+    "Nome": "TÓPICOS ESPECIAIS DE ENGENHARIA DE SOFTWARE",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Software",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0144",
+    "Nome": "FÍSICA MODERNA",
+    "Horas": "90h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Software",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( MAT0027 E IFD0171 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0148",
+    "Nome": "ENGENHARIA DE SEGURANÇA DO TRABALHO",
+    "Horas": "30h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Software",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0154",
+    "Nome": "MECANICA DOS SÓLIDOS 1 PARA ENGENHARIA",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Software",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( IFD0171 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0155",
+    "Nome": "INTRODUÇÃO AO DESIGN E CONCEPÇÃO DE VEÍCULOS",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Software",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0168 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0166",
+    "Nome": "ELEMENTOS E MÉTODOS EM ELETRÔNICA",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Software",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0167",
+    "Nome": "SISTEMAS AUTOMOTIVOS",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Software",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0169",
+    "Nome": "FONTES DE ENERGIA E TECNOLOGIAS DE CONVERSÃO",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Software",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0171",
+    "Nome": "TÉCNICAS DE PROGRAMAÇÃO",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Software",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0158 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0174",
+    "Nome": "DESENVOLVIMENTO SUSTENTÁVEL",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Software",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0179",
+    "Nome": "MECANICA DOS SÓLIDOS 2 PARA ENGENHARIA",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Software",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0154 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0181",
+    "Nome": "INOVAÇÃO",
+    "Horas": "30h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Software",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0186",
+    "Nome": "ELETRICIDADE APLICADA",
+    "Horas": "90h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Software",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0188",
+    "Nome": "MÉTODOS EXPERIMENTAIS PARA ENGENHARIA",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Software",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( IFD0173 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0201",
+    "Nome": "PROJETO DE CIRCUITOS INTEGRADOS DIGITAIS",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Software",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( ENE0278 ) OU ( FGA0074 E FGA0072 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0203",
+    "Nome": "PLANEJAMENTO E GESTÃO DE ENERGIA",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Software",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0265 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0204",
+    "Nome": "DINÂMICA DOS FLUÍDOS",
+    "Horas": "75h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Software",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( ENM0080 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0220",
+    "Nome": "SISTEMAS EMBARCADOS",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Software",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0182 ) OU ( FGA0170 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0221",
+    "Nome": "INTELIGÊNCIA ARTIFICIAL",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Software",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0226",
+    "Nome": "ELETRÔNICA VEICULAR",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Software",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0196 ) OU ( FGA0186 ) OU ( FGA0067 E FGA0069 ) OU ( FGA0086 E FGA0087 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0254",
+    "Nome": "CIÊNCIAS AEROESPACIAIS",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Software",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0264",
+    "Nome": "INTRODUÇÃO A COMPUTAÇÃO GRÁFICA",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Software",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0147 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0265",
+    "Nome": "ECONOMIA DE ENERGIA",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Software",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( FGA0133 )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0274",
+    "Nome": "PRODUTIVIDADE E PROFISSIONALISMO EM ENGENHARIA DE SOFTWARE",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Software",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0164 ) E ( FGA0206 OU FGA0316 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0275",
+    "Nome": "ENGENHARIA DE SOFTWARE EXPERIMENTAL",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Software",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( FGA0138 OU FGA0312 )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0279",
+    "Nome": "PROGRAMAÇÃO WEB",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Software",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0137 E FGA0171 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0319",
+    "Nome": "GOVERNANÇA EM TECNOLOGIA DA INFORMAÇÃO",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Software",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0320",
+    "Nome": "FELICIDADE",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Software",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0321",
+    "Nome": "MELHORIA DE PROCESSOS DE SOFTWARE",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Software",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( FGA0238 OU FGA0314 )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0322",
+    "Nome": "INTRODUÇÃO À GAMIFICAÇÃO",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Software",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0323",
+    "Nome": "ATIVIDADE COMPLEMENTAR",
+    "Horas": "15h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Software",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0324",
+    "Nome": "ATIVIDADE COMPLEMENTAR",
+    "Horas": "30h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Software",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0325",
+    "Nome": "ATIVIDADE COMPLEMENTAR",
+    "Horas": "45h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Software",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0326",
+    "Nome": "ATIVIDADE COMPLEMENTAR",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Software",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0327",
+    "Nome": "ATIVIDADE COMPLEMENTAR",
+    "Horas": "90h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Software",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0328",
+    "Nome": "ATIVIDADE COMPLEMENTAR",
+    "Horas": "120h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Software",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FTD0007",
+    "Nome": "INTRODUCAO A ATIVIDADE EMPRESARIAL",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Software",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "LIP0174",
+    "Nome": "LÍNGUA DE SINAIS BRASILEIRA - BÁSICO",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Software",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "MAT0027",
+    "Nome": "CÁLCULO 3",
+    "Horas": "90h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Software",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( MAT0026 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "MAT0038",
+    "Nome": "TEORIA DOS NÚMEROS 1",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Software",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "CIC0004",
+    "Nome": "ALGORITMOS E PROGRAMAÇÃO DE COMPUTADORES",
+    "Horas": "90h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Software",
+    "Nível": "1º Nível",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0163",
+    "Nome": "INTRODUÇÃO À ENGENHARIA",
+    "Horas": "30h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Software",
+    "Nível": "1º Nível",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0168",
+    "Nome": "DESENHO INDUSTRIAL ASSISTIDO POR COMPUTADOR",
+    "Horas": "90h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Software",
+    "Nível": "1º Nível",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0302",
+    "Nome": "ENGENHARIA E AMBIENTE",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Software",
+    "Nível": "1º Nível",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "MAT0025",
+    "Nome": "CÁLCULO 1",
+    "Horas": "90h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Software",
+    "Nível": "1º Nível",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0157",
+    "Nome": "PROBABILIDADE E ESTATÍSTICA APLICADO A ENGENHARIA",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Software",
+    "Nível": "2º Nível",
+    "Pré-Requisitos": "( ( MAT0025 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "IFD0171",
+    "Nome": "FISICA 1",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Software",
+    "Nível": "2º Nível",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "IFD0173",
+    "Nome": "FISICA 1 EXPERIMENTAL",
+    "Horas": "30h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Software",
+    "Nível": "2º Nível",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "MAT0026",
+    "Nome": "CÁLCULO 2",
+    "Horas": "90h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Software",
+    "Nível": "2º Nível",
+    "Pré-Requisitos": "( ( MAT0025 ) OU ( MAT0024 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "MAT0031",
+    "Nome": "INTRODUCAO A ALGEBRA LINEAR",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Software",
+    "Nível": "2º Nível",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0071",
+    "Nome": "PRÁTICA DE ELETRÔNICA DIGITAL 1",
+    "Horas": "30h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Software",
+    "Nível": "3º Nível",
+    "Pré-Requisitos": "( ( MAT0031 ) )",
+    "Co-Requisitos": "( FGA0073 )"
+  },
+  {
+    "Código": "FGA0073",
+    "Nome": "TEORIA DE ELETRÔNICA DIGITAL 1",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Software",
+    "Nível": "3º Nível",
+    "Pré-Requisitos": "( ( MAT0031 ) )",
+    "Co-Requisitos": "( FGA0071 )"
+  },
+  {
+    "Código": "FGA0085",
+    "Nome": "MATEMÁTICA DISCRETA 1",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Software",
+    "Nível": "3º Nível",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0133",
+    "Nome": "ENGENHARIA ECONÔMICA",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Software",
+    "Nível": "3º Nível",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0158",
+    "Nome": "ORIENTAÇÃO A OBJETOS",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Software",
+    "Nível": "3º Nível",
+    "Pré-Requisitos": "( ( CIC0004 ) OU ( CIC0007 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0160",
+    "Nome": "MÉTODOS NUMÉRICOS PARA ENGENHARIA",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Software",
+    "Nível": "3º Nível",
+    "Pré-Requisitos": "( ( MAT0026 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0164",
+    "Nome": "HUMANIDADES E CIDADANIA",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Software",
+    "Nível": "3º Nível",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0108",
+    "Nome": "MATEMÁTICA DISCRETA 2",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Software",
+    "Nível": "4º Nível",
+    "Pré-Requisitos": "( ( FGA0085 ) OU ( FGA0159 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0142",
+    "Nome": "FUNDAMENTOS DE ARQUITETURA DE COMPUTADORES",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Software",
+    "Nível": "4º Nível",
+    "Pré-Requisitos": "( ( ENE0277 ) OU ( FGA0071 E FGA0073 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0146",
+    "Nome": "ESTRUTURAS DE DADOS 1",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Software",
+    "Nível": "4º Nível",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0303",
+    "Nome": "PROJETO INTEGRADOR DE ENGENHARIA 1",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Software",
+    "Nível": "4º Nível",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0307",
+    "Nome": "GESTÃO DA PRODUÇÃO E QUALIDADE",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Software",
+    "Nível": "4º Nível",
+    "Pré-Requisitos": "( FGA0133 )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0312",
+    "Nome": "MÉTODOS DE DESENVOLVIMENTO DE SOFTWARE",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Software",
+    "Nível": "4º Nível",
+    "Pré-Requisitos": "( FGA0158 )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0003",
+    "Nome": "COMPILADORES 1",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Software",
+    "Nível": "5º Nível",
+    "Pré-Requisitos": "( ( FGA0147 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0030",
+    "Nome": "ESTRUTURAS DE DADOS 2",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Software",
+    "Nível": "5º Nível",
+    "Pré-Requisitos": "( ( FGA0147 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0137",
+    "Nome": "SISTEMAS DE BANCO DE DADOS 1",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Software",
+    "Nível": "5º Nível",
+    "Pré-Requisitos": "( ( FGA0159 ) OU ( FGA0108 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0170",
+    "Nome": "FUNDAMENTOS DE SISTEMAS OPERACIONAIS",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Software",
+    "Nível": "5º Nível",
+    "Pré-Requisitos": "( ( FGA0182 ) OU ( FGA0096 ) OU ( FGA0142 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0173",
+    "Nome": "INTERAÇÃO HUMANO COMPUTADOR",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Software",
+    "Nível": "5º Nível",
+    "Pré-Requisitos": "( ( FGA0138 OU FGA0312 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0313",
+    "Nome": "REQUISITOS DE SOFTWARE",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Software",
+    "Nível": "5º Nível",
+    "Pré-Requisitos": "( FGA0138 OU FGA0312 )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0060",
+    "Nome": "SISTEMAS DE BANCO DE DADOS 2",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Software",
+    "Nível": "6º Nível",
+    "Pré-Requisitos": "( ( FGA0137 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0124",
+    "Nome": "PROJETO DE ALGORITMOS",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Software",
+    "Nível": "6º Nível",
+    "Pré-Requisitos": "( ( FGA0147 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0208",
+    "Nome": "ARQUITETURA E DESENHO DE SOFTWARE",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Software",
+    "Nível": "6º Nível",
+    "Pré-Requisitos": "( ( FGA0172 OU FGA0313 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0211",
+    "Nome": "FUNDAMENTOS DE REDES DE COMPUTADORES",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Software",
+    "Nível": "6º Nível",
+    "Pré-Requisitos": "( ( FGA0170 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0314",
+    "Nome": "TESTES DE SOFTWARE",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Software",
+    "Nível": "6º Nível",
+    "Pré-Requisitos": "( FGA0138 OU FGA0313 )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0315",
+    "Nome": "QUALIDADE DE SOFTWARE 1",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Software",
+    "Nível": "6º Nível",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0109",
+    "Nome": "FUNDAMENTOS DE SISTEMAS EMBARCADOS",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Software",
+    "Nível": "7º Nível",
+    "Pré-Requisitos": "( ( FGA0170 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0210",
+    "Nome": "PARADIGMAS DE PROGRAMAÇÃO",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Software",
+    "Nível": "7º Nível",
+    "Pré-Requisitos": "( ( FGA0158 E FGA0003 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0242",
+    "Nome": "TÉCNICAS DE PROGRAMAÇÃO EM PLATAFORMAS EMERGENTES",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Software",
+    "Nível": "7º Nível",
+    "Pré-Requisitos": "( ( FGA0208 ) E ( FGA0238 OU FGA0314 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0244",
+    "Nome": "PROGRAMAÇÃO PARA SISTEMAS PARALELOS E DISTRIBUÍDOS",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Software",
+    "Nível": "7º Nível",
+    "Pré-Requisitos": "( ( FGA0211 E FGA0030 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0288",
+    "Nome": "ESTÁGIO SUPERVISIONADO",
+    "Horas": "210h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Software",
+    "Nível": "8º Nível",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0316",
+    "Nome": "ENGENHARIA DE PRODUTO DE SOFTWARE",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Software",
+    "Nível": "8º Nível",
+    "Pré-Requisitos": "( FGA0242 )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0317",
+    "Nome": "GERÊNCIA DE CONFIGURAÇÃO E EVOLUÇÃO DE SOFTWARE",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Software",
+    "Nível": "8º Nível",
+    "Pré-Requisitos": "( FGA0238 OU FGA0314 )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0287",
+    "Nome": "TRABALHO DE CONCLUSÃO DE CURSO 1",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Software",
+    "Nível": "9º Nível",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0304",
+    "Nome": "PROJETO INTEGRADOR DE ENGENHARIA 2",
+    "Horas": "90h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Software",
+    "Nível": "9º Nível",
+    "Pré-Requisitos": "( FGA0150 OU FGA0303 )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0290",
+    "Nome": "TRABALHO DE CONCLUSÃO DE CURSO 2",
+    "Horas": "90h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Software",
+    "Nível": "10º Nível",
+    "Pré-Requisitos": "( ( FGA0287 ) OU ( FGA0009 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0318",
+    "Nome": "ATIVIDADE DE EXTENSÃO ENGENHARIA DE SOFTWARE",
+    "Horas": "45h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Software",
+    "Nível": "10º Nível",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  }
+]

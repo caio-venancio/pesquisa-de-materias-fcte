@@ -1,0 +1,66 @@
+Meta: Deploy do minimum viable product até o dia 26/09, fazendo propaganda na fga antes
+
+Novo Design
+1. Tanto clicar em procurar, quanto clicar na primeira fileira de botões, quanto clicar na segunda fileira de botões fazem
+os três filtros acontecerem
+2. Tem que dar para clicar em mais de um critério. Se a pessoa clicar em todos os critérios, o botão todos deverá ser ativado. 
+(um botão que desclica e a função sabe, ou um dicionário de o que está ativo?, acho que opção 1. Era melhor e mais geral o 2.)
+3. Quando alguém procura uma matéria optativa de software e eletrônica, ela procura uma matéria optativa tanto para um quanto para outro.
+Do jeito que está, vai aparecer todas as matérias que aparece software e eletrônica e que tenha tag optativa.
+
+
+Design de filtro
+    Ao filtrar, ele pega a filtragem chamada objeto pesquisa
+    O elemento que ele mostrar tem que contemplar todos os termos do objeto pesquisa.
+    Tenho que dar um jeito de verificar se está filtrando certo kk.
+
+
+    //atual
+        se a matéria já foi incluída
+            incluir a matéria
+        Se não, se a matéria não foi incluída
+            incluir a matéria 
+                se ela for obrigatoria, incluir no obrigatoria
+                senao incluir no optativa
+
+    //conserto
+        se a matéria já foi incluída
+            incluir a matéria
+                se ela for obrigatoria, incluir no obrigatoria
+                senao incluir no optativa
+        Se não, se a matéria não foi incluída
+            incluir a matéria, e criar o div obrigatoria e optativa
+                se ela for obrigatoria, incluir no obrigatoria
+                senao incluir no optativa
+
+Expedito disse:
+    Recomedações de pesquisa
+    Fluxo automático
+    
+
+Opções:
+    Domínio da UNB -> Autoridades (tem que estar super pronto)
+    Domínio próprio -> meu dinheiro
+    Hospedagem própria -> meu dinheiro
+    Hospedagem da UNB 
+    Código fechado
+    Código aberto no github (open-source) -> Geovana
+    Ad-sense
+    Donate (buy me a coffee) -> Eu
+    Link para o twitter/linkedin -> Nael
+
+Eu acho que deveria ser open-source com botão de donate, e domínio e hospedagem prórpia
+Só não é open-source se for ter ad-sense...
+Botão de donate só dá certo se tiver uma comunidade ativa.
+Só tem comunidade ativa se tiver propaganda como Nael -> Tirar botão de donate
+Só tem domínio e hospedagem não próprios se eu for falar com o Luciano... Procurar ele!
+
+The best successes I see are that where the authors can build an audience, community and profile around themselves that they can then utilize for the project.
+Individuals don’t donate to codebases, they donate to people and their stories. 
+Companies donate upon their own interests.
+
+Agora acho que vai ser open-source e eu pago de vez em quandoKKKKKKKKK
+No máximo um "Doe para funcionar" se eu não conseguir o domínio
+
+A meta agora é deixar tudo pronto
+

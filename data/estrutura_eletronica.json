@@ -1,0 +1,1053 @@
+[
+  {
+    "Código": "DEG0200",
+    "Nome": "ATIVIDADE COMPLEMENTAR",
+    "Horas": "15h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "DEG0201",
+    "Nome": "ATIVIDADE COMPLEMENTAR",
+    "Horas": "30h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "DEG0202",
+    "Nome": "ATIVIDADE COMPLEMENTAR",
+    "Horas": "45h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "DEG0203",
+    "Nome": "ATIVIDADE COMPLEMENTAR",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "DEG0205",
+    "Nome": "ATIVIDADE COMPLEMENTAR",
+    "Horas": "90h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "DEG0206",
+    "Nome": "ATIVIDADE COMPLEMENTAR",
+    "Horas": "120h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0003",
+    "Nome": "COMPILADORES 1",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0147 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0013",
+    "Nome": "ANATOMIA E FISIOLOGIA HUMANA",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0014",
+    "Nome": "PROCESSAMENTO DE SINAIS BIOLÓGICOS",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0219 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0015",
+    "Nome": "PROCESSAMENTO DIGITAL DE IMAGENS",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0219 ) OU ( FGA0102 E FGA0157 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0016",
+    "Nome": "TÓPICOS ESPECIAL EM INSTRUMENTAÇÃO BIOMÉDICA",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0025",
+    "Nome": "SISTEMAS DE ENERGIA SOLAR E EÓLICA",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0086 E FGA0087 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0044",
+    "Nome": "PROJETO DE SISTEMAS DE CONTROLE",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0197 ) OU ( FGA0093 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0046",
+    "Nome": "MÉTODOS E TÉCNICAS DA ESCRITA CIENTÍFICA",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0057",
+    "Nome": "ELETRÔNICA DE POTÊNCIA",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0086 E FGA0087 E FGA0068 E FGA0070 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0088",
+    "Nome": "TEORIA DE SISTEMAS DE CONVERSÃO DE ENERGIA",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0186 ) OU ( FGA0086 E FGA0087 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0089",
+    "Nome": "LABORATÓRIO DE SISTEMAS DE CONVERSÃO DE ENERGIA",
+    "Horas": "30h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0186 ) OU ( FGA0086 E FGA0087 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0094",
+    "Nome": "ANTENAS IMPRESSAS",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0143 E FGA0217 ) OU ( FGA0068 E FGA0070 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0095",
+    "Nome": "CODIFICAÇÃO E COMPRESSÃO DE SINAIS, IMAGENS E VÍDEO",
+    "Horas": "IMAGENS E VÍDEO",
+    "Obrigatoriedade": "60h",
+    "Curso": "Optativa",
+    "Nível": "Engenharia Eletrônica",
+    "field7": "N/A",
+    "Pré-Requisitos": "( ( FGA0219 E FGA0157 ) OU ( FGA0015 E FGA0157 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0097",
+    "Nome": "ELETRÔNICA DE RÁDIO FREQUÊNCIA",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0068 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0116",
+    "Nome": "ELETRÔNICA DE ALTA FREQUÊNCIA",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0143 E FGA0217 ) OU ( FGA0068 E FGA0070 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0129",
+    "Nome": "PROCESSAMENTO DIGITAL DE SINAIS FINANCEIROS",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0102 ) OU ( MAT0026 E FGA0157 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0138",
+    "Nome": "MÉTODOS DE DESENVOLVIMENTO DE SOFTWARE",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0158 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0147",
+    "Nome": "ESTRUTURA DE DADOS E ALGORITMOS",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( CIC0004 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0158",
+    "Nome": "ORIENTAÇÃO A OBJETOS",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( CIC0004 ) OU ( CIC0007 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0165",
+    "Nome": "PROCESSO DE DESENVOLVIMENTO DE SOFTWARE",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0166",
+    "Nome": "ELEMENTOS E MÉTODOS EM ELETRÔNICA",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0167",
+    "Nome": "SISTEMAS AUTOMOTIVOS",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0169",
+    "Nome": "FONTES DE ENERGIA E TECNOLOGIAS DE CONVERSÃO",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0170",
+    "Nome": "FUNDAMENTOS DE SISTEMAS OPERACIONAIS",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0182 ) OU ( FGA0096 ) OU ( FGA0142 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0171",
+    "Nome": "TÉCNICAS DE PROGRAMAÇÃO",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0158 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0181",
+    "Nome": "INOVAÇÃO",
+    "Horas": "30h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0195",
+    "Nome": "GESTÃO DA PRODUÇÃO AUTOMOTIVA",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0184 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0198",
+    "Nome": "PROJETO COM CIRCUITOS RECONFIGURAVEIS",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0182 ) OU ( FGA0096 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0200",
+    "Nome": "ENGENHARIA DE PRODUTO",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0201",
+    "Nome": "PROJETO DE CIRCUITOS INTEGRADOS DIGITAIS",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( ENE0278 ) OU ( FGA0074 E FGA0072 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0202",
+    "Nome": "INFORMÁTICA EM SAÚDE",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0221",
+    "Nome": "INTELIGÊNCIA ARTIFICIAL",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0222",
+    "Nome": "INSTRUMENTAÇÃO BIOMÉDICA 1",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0068 E FGA0070 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0224",
+    "Nome": "COMUNICAÇÕES DIGITAIS PARA ENGENHARIA",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0199 ) OU ( FGA0092 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0226",
+    "Nome": "ELETRÔNICA VEICULAR",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0196 ) OU ( FGA0186 ) OU ( FGA0067 E FGA0069 ) OU ( FGA0086 E FGA0087 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0254",
+    "Nome": "CIÊNCIAS AEROESPACIAIS",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0256",
+    "Nome": "PROJETO DE SENSORES",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0257",
+    "Nome": "INTEGRIDADES DE SINAIS E DESIGN DE CIRCUITOS",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0196 ) OU ( FGA0067 E FGA0069 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0258",
+    "Nome": "INSTRUMENTAÇÃO BIOMÉDICA 2",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0222 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0259",
+    "Nome": "MODELAGEM DE SISTEMAS BIOLÓGICOS",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0260",
+    "Nome": "TÓPICOS AVANÇADOS EM ELETROMAGNETISMO APLICADO",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0261",
+    "Nome": "TÓPICOS ESPECIAIS EM ELETRONICA",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0280",
+    "Nome": "PROJETO DE CIRCUITOS ELETRÔNICOS INTEGRADOS 2",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0215 ) OU ( FGA0017 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0292",
+    "Nome": "INTRODUÇÃO À FOTÔNICA E OPTRÔNICA",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( FGA0067 E FGA0069 E FGA0100 E FGA0101 )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0299",
+    "Nome": "SISTEMAS BIOINSPIRADOS APLICADOS A ENGENHARIA",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( FGA0093 OU FGA0197 )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0380",
+    "Nome": "PROCESSOS ESTOCÁSTICOS",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FTD0007",
+    "Nome": "INTRODUCAO A ATIVIDADE EMPRESARIAL",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "LIP0174",
+    "Nome": "LÍNGUA DE SINAIS BRASILEIRA - BÁSICO",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "CIC0004",
+    "Nome": "ALGORITMOS E PROGRAMAÇÃO DE COMPUTADORES",
+    "Horas": "90h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "1º Nível",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0161",
+    "Nome": "ENGENHARIA E AMBIENTE",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "1º Nível",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0163",
+    "Nome": "INTRODUÇÃO À ENGENHARIA",
+    "Horas": "30h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "1º Nível",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0168",
+    "Nome": "DESENHO INDUSTRIAL ASSISTIDO POR COMPUTADOR",
+    "Horas": "90h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "1º Nível",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "MAT0025",
+    "Nome": "CÁLCULO 1",
+    "Horas": "90h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "1º Nível",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0133",
+    "Nome": "ENGENHARIA ECONÔMICA",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "2º Nível",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0157",
+    "Nome": "PROBABILIDADE E ESTATÍSTICA APLICADO A ENGENHARIA",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "2º Nível",
+    "Pré-Requisitos": "( ( MAT0025 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "IFD0171",
+    "Nome": "FISICA 1",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "2º Nível",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "IFD0173",
+    "Nome": "FISICA 1 EXPERIMENTAL",
+    "Horas": "30h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "2º Nível",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "MAT0026",
+    "Nome": "CÁLCULO 2",
+    "Horas": "90h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "2º Nível",
+    "Pré-Requisitos": "( ( MAT0025 ) OU ( MAT0024 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "MAT0031",
+    "Nome": "INTRODUCAO A ALGEBRA LINEAR",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "2º Nível",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0071",
+    "Nome": "PRÁTICA DE ELETRÔNICA DIGITAL 1",
+    "Horas": "30h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "3º Nível",
+    "Pré-Requisitos": "( ( MAT0031 ) )",
+    "Co-Requisitos": "( FGA0073 )"
+  },
+  {
+    "Código": "FGA0073",
+    "Nome": "TEORIA DE ELETRÔNICA DIGITAL 1",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "3º Nível",
+    "Pré-Requisitos": "( ( MAT0031 ) )",
+    "Co-Requisitos": "( FGA0071 )"
+  },
+  {
+    "Código": "FGA0154",
+    "Nome": "MECANICA DOS SÓLIDOS 1 PARA ENGENHARIA",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "3º Nível",
+    "Pré-Requisitos": "( ( IFD0171 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0160",
+    "Nome": "MÉTODOS NUMÉRICOS PARA ENGENHARIA",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "3º Nível",
+    "Pré-Requisitos": "( ( MAT0026 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "IQD0125",
+    "Nome": "QUIMICA GERAL TEORICA",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "3º Nível",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "IQD0126",
+    "Nome": "QUIMICA GERAL EXPERIMENTAL",
+    "Horas": "30h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "3º Nível",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "MAT0027",
+    "Nome": "CÁLCULO 3",
+    "Horas": "90h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "3º Nível",
+    "Pré-Requisitos": "( ( MAT0026 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "ENM0080",
+    "Nome": "FENOMENOS DE TRANSPORTE",
+    "Horas": "75h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "4º Nível",
+    "Pré-Requisitos": "( ( MAT0027 E ENC0132 ) OU ( MAT0027 E ENM0120 ) OU ( MAT0027 E FGA0154 ) OU ( MAT0027 E ENC0035 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0067",
+    "Nome": "TEORIA DE CIRCUITOS ELETRÔNICOS 1",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "4º Nível",
+    "Pré-Requisitos": "( ( MAT0048 ) OU ( MAT0026 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0069",
+    "Nome": "PRÁTICA DE CIRCUITOS ELETRÔNICOS 1",
+    "Horas": "30h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "4º Nível",
+    "Pré-Requisitos": "( ( MAT0048 ) OU ( MAT0026 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0072",
+    "Nome": "PRÁTICA DE ELETRÔNICA DIGITAL 2",
+    "Horas": "30h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "4º Nível",
+    "Pré-Requisitos": "( ( ENE0277 ) OU ( FGA0073 E FGA0071 ) )",
+    "Co-Requisitos": "( FGA0074 )"
+  },
+  {
+    "Código": "FGA0074",
+    "Nome": "TEORIA DE ELETRÔNICA DIGITAL 2",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "4º Nível",
+    "Pré-Requisitos": "( ( ENE0277 ) OU ( FGA0073 E FGA0071 ) )",
+    "Co-Requisitos": "( FGA0072 )"
+  },
+  {
+    "Código": "FGA0119",
+    "Nome": "TEORIA DE ELETROMAGNETISMO",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "4º Nível",
+    "Pré-Requisitos": "( ( IFD0171 E MAT0027 ) )",
+    "Co-Requisitos": "( FGA0120 )"
+  },
+  {
+    "Código": "FGA0120",
+    "Nome": "PRÁTICA DE ELETROMAGNETISMO",
+    "Horas": "30h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "4º Nível",
+    "Pré-Requisitos": "( ( IFD0171 E MAT0027 ) )",
+    "Co-Requisitos": "( FGA0119 )"
+  },
+  {
+    "Código": "FGA0150",
+    "Nome": "PROJETO INTEGRADOR DE ENGENHARIA 1",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "4º Nível",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0075",
+    "Nome": "LABORATÓRIO DE MATERIAIS DE CONSTRUÇÃO",
+    "Horas": "15h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "5º Nível",
+    "Pré-Requisitos": "( ( IQD0051 ) OU ( IQD0125 E IQD0126 ) )",
+    "Co-Requisitos": "( FGA0078 )"
+  },
+  {
+    "Código": "FGA0078",
+    "Nome": "TEORIA DE MATERIAIS DE CONSTRUÇÃO",
+    "Horas": "45h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "5º Nível",
+    "Pré-Requisitos": "( ( IQD0051 ) OU ( IQD0125 E IQD0126 ) )",
+    "Co-Requisitos": "( FGA0075 )"
+  },
+  {
+    "Código": "FGA0086",
+    "Nome": "TEORIA DE ELETRICIDADE APLICADA",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "5º Nível",
+    "Pré-Requisitos": "( ( FGA0187 ) OU ( FGA0067 E FGA0069 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0087",
+    "Nome": "LABORATÓRIO DE ELETRICIDADE APLICADA",
+    "Horas": "30h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "5º Nível",
+    "Pré-Requisitos": "( ( FGA0187 ) OU ( FGA0067 E FGA0069 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0096",
+    "Nome": "ELETRÔNICA EMBARCADA",
+    "Horas": "90h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "5º Nível",
+    "Pré-Requisitos": "( ( FGA0074 E FGA0072 ) OU ( ENE0278 ) OU ( FGA0142 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0100",
+    "Nome": "PRÁTICA DE FÍSICA DOS DISPOSITIVOS ELETRÔNICOS",
+    "Horas": "30h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "5º Nível",
+    "Pré-Requisitos": "( ( FGA0143 ) OU ( FGA0119 E FGA0120 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0101",
+    "Nome": "TEORIA DE FÍSICA DOS DISPOSITIVOS ELETRÔNICOS",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "5º Nível",
+    "Pré-Requisitos": "( ( FGA0143 ) OU ( FGA0119 E FGA0120 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0102",
+    "Nome": "SINAIS E SISTEMAS PARA ENGENHARIA",
+    "Horas": "90h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "5º Nível",
+    "Pré-Requisitos": "( ( MAT0027 E CIC0004 ) OU ( MAT0027 E CIC0088 ) OU ( MAT0027 E CIC0007 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0068",
+    "Nome": "TEORIA DE CIRCUITOS ELETRÔNICOS 2",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "6º Nível",
+    "Pré-Requisitos": "( ( FGA0196 ) OU ( FGA0067 E FGA0069 E FGA0101 E FGA0100 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0070",
+    "Nome": "PRÁTICA DE CIRCUITOS ELETRÔNICOS 2",
+    "Horas": "30h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "6º Nível",
+    "Pré-Requisitos": "( ( FGA0196 ) OU ( FGA0067 E FGA0069 E FGA0101 E FGA0100 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0092",
+    "Nome": "PRINCÍPIOS DE COMUNICAÇÃO PARA ENGENHARIA",
+    "Horas": "75h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "6º Nível",
+    "Pré-Requisitos": "( ( FGA0187 ) OU ( FGA0102 E FGA0067 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0093",
+    "Nome": "PRINCÍPIOS DE CONTROLE",
+    "Horas": "75h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "6º Nível",
+    "Pré-Requisitos": "( ( FGA0187 ) OU ( FGA0102 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0164",
+    "Nome": "HUMANIDADES E CIDADANIA",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "6º Nível",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0184",
+    "Nome": "GESTÃO DA PRODUÇÃO E QUALIDADE",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "6º Nível",
+    "Pré-Requisitos": "( FGA0133 )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0017",
+    "Nome": "PROJETOS DE CIRCUITOS INTEGRADOS 1",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "7º Nível",
+    "Pré-Requisitos": "( ( ENE0181 ) OU ( FGA0217 ) OU ( FGA0068 E FGA0070 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0103",
+    "Nome": "SISTEMAS OPERACIONAIS EMBARCADOS",
+    "Horas": "90h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "7º Nível",
+    "Pré-Requisitos": "( ( FGA0096 ) OU ( FGA0182 ) OU ( FGA0170 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0132",
+    "Nome": "INSTRUMENTAÇÃO ELETRÔNICA PARA ENGENHARIA",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "7º Nível",
+    "Pré-Requisitos": "( ( FGA0068 E FGA0070 ) OU ( FGA0217 ) OU ( FGA0226 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0148",
+    "Nome": "ENGENHARIA DE SEGURANÇA DO TRABALHO",
+    "Horas": "30h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "7º Nível",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0219",
+    "Nome": "PROCESSAMENTO DE SINAIS",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "7º Nível",
+    "Pré-Requisitos": "( ( FGA0187 ) OU ( FGA0102 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0098",
+    "Nome": "PRÁTICA DE CIRCUITOS ELETRÔNICOS 3",
+    "Horas": "30h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "8º Nível",
+    "Pré-Requisitos": "( ( FGA0017 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0099",
+    "Nome": "TEORIA DE CIRCUITOS ELETRÔNICOS 3",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "8º Nível",
+    "Pré-Requisitos": "( ( FGA0017 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0250",
+    "Nome": "PROJETO INTEGRADOR DE ENGENHARIA 2",
+    "Horas": "90h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "8º Nível",
+    "Pré-Requisitos": "( ( FGA0150 ) OU ( ENM0071 ) OU ( ENE0130 ) OU ( FGA0230 ) OU ( FGA0228 ) OU ( FGA0226 ) OU ( FGA0217 ) OU ( FGA0218 ) OU ( FGA0220 ) OU ( FGA0206 ) OU ( FGA0088 E FGA0089 ) OU ( FGA0103 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0009",
+    "Nome": "TRABALHO DE CONCLUSÃO DE CURSO 1",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "9º Nível",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0021",
+    "Nome": "ESTÁGIO SUPERVISIONADO",
+    "Horas": "210h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "9º Nível",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0011",
+    "Nome": "TRABALHO DE CONCLUSÃO DE CURSO 2",
+    "Horas": "90h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia Eletrônica",
+    "Nível": "10º Nível",
+    "Pré-Requisitos": "( ( FGA0287 ) OU ( FGA0009 ) )",
+    "Co-Requisitos": "-"
+  }
+]

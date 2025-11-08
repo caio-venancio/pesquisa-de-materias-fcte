@@ -1,0 +1,25 @@
+amigos
+	Quem
+		O que achou
+		O que fará
+	Marcelo
+		Achou legal
+	Fernando
+		Achou, não viu os resultados
+	Victor Pontual
+		Achou
+	Igor
+		Achou legal
+	Samuel
+		Achou massa
+	Celestino
+		Achou legal...
+		Talvez use...
+	Noboru
+		Achou muito massa
+		vai usar
+
+professores (stakeholders)
+	Fabiano
+		Gostou da ideia e recomendou o Luciano Toledo para ver a questão de hospedagem
+		Dará o link à alunos

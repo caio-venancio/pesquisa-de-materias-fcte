@@ -1,0 +1,1342 @@
+[
+  {
+    "Código": "ENM0070",
+    "Nome": "MAQUINAS TERMICAS",
+    "Horas": "75h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Energia",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( ENM0068 ) OU ( ENM0128 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0006",
+    "Nome": "FUNDAMENTOS DE EQUAÇÕES DIFERENCIAIS PARA ENGENHARIA",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Energia",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( MAT0031 E MAT0027 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0008",
+    "Nome": "SISTEMAS AEROESPACIAIS",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Energia",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( IFD0171 E FGA0254 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0030",
+    "Nome": "ESTRUTURAS DE DADOS 2",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Energia",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0147 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0031",
+    "Nome": "SEMINÁRIOS EM ENGENHARIA DE SOFTWARE",
+    "Horas": "30h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Energia",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( CIC0007 ) OU ( CIC0088 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0033",
+    "Nome": "TÓPICOS ESPECIAIS EM FÍSICA APLICADA",
+    "Horas": "30h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Energia",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( IFD0171 E MAT0048 ) OU ( MAT0026 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0034",
+    "Nome": "TÓPICOS ESPECIAIS EM MATEMÁTICA APLICADA",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Energia",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( MAT0048 ) OU ( MAT0026 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0035",
+    "Nome": "ANÁLISE DE SISTEMAS DE ENERGIA ELÉTRICA",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Energia",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0262 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0036",
+    "Nome": "PRÉ-CÁLCULO PARA ENGENHARIA",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Energia",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0037",
+    "Nome": "TÓPICOS ESPECIAIS EM ENGENHARIA AEROESPACIAL",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Energia",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0038",
+    "Nome": "AERODINÂMICA DE SISTEMAS AEROESPACIAIS",
+    "Horas": "75h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Energia",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0204 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0041",
+    "Nome": "TÓPICOS ESPECIAIS EM JOGOS DIGITAIS",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Energia",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( CIC0007 ) OU ( CIC0088 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0042",
+    "Nome": "TÓPICOS ESPECIAIS EM SISTEMAS CRÍTICOS",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Energia",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( CIC0007 ) OU ( CIC0088 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0043",
+    "Nome": "DINÂMICA DOS GASES PARA SISTEMAS AEROESPACIAIS",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Energia",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0038 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0044",
+    "Nome": "PROJETO DE SISTEMAS DE CONTROLE",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Energia",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0197 ) OU ( FGA0093 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0045",
+    "Nome": "MECÂNICA DO VÔO",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Energia",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0008 E FGA0038 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0046",
+    "Nome": "MÉTODOS E TÉCNICAS DA ESCRITA CIENTÍFICA",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Energia",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0055",
+    "Nome": "TECNOLOGIAS DE FABRICAÇÃO 1",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Energia",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0078 E FGA0075 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0057",
+    "Nome": "ELETRÔNICA DE POTÊNCIA",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Energia",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0086 E FGA0087 E FGA0068 E FGA0070 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0066",
+    "Nome": "FUNDAMENTOS DE VARIÁVEL COMPLEXA PARA ENGENHARIA",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Energia",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( MAT0027 E MAT0031 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0068",
+    "Nome": "TEORIA DE CIRCUITOS ELETRÔNICOS 2",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Energia",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0196 ) OU ( FGA0067 E FGA0069 E FGA0101 E FGA0100 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0070",
+    "Nome": "PRÁTICA DE CIRCUITOS ELETRÔNICOS 2",
+    "Horas": "30h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Energia",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0196 ) OU ( FGA0067 E FGA0069 E FGA0101 E FGA0100 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0071",
+    "Nome": "PRÁTICA DE ELETRÔNICA DIGITAL 1",
+    "Horas": "30h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Energia",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( MAT0031 ) )",
+    "Co-Requisitos": "( FGA0073 )"
+  },
+  {
+    "Código": "FGA0072",
+    "Nome": "PRÁTICA DE ELETRÔNICA DIGITAL 2",
+    "Horas": "30h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Energia",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( ENE0277 ) OU ( FGA0073 E FGA0071 ) )",
+    "Co-Requisitos": "( FGA0074 )"
+  },
+  {
+    "Código": "FGA0073",
+    "Nome": "TEORIA DE ELETRÔNICA DIGITAL 1",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Energia",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( MAT0031 ) )",
+    "Co-Requisitos": "( FGA0071 )"
+  },
+  {
+    "Código": "FGA0074",
+    "Nome": "TEORIA DE ELETRÔNICA DIGITAL 2",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Energia",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( ENE0277 ) OU ( FGA0073 E FGA0071 ) )",
+    "Co-Requisitos": "( FGA0072 )"
+  },
+  {
+    "Código": "FGA0076",
+    "Nome": "EQUIPAMENTOS TERMOFLUIDOS AUTOMOTIVOS",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Energia",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( ENM0080 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0090",
+    "Nome": "ONDULATÓRIA E FÍSICA TÉRMICA PARA ENGENHARIA",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Energia",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( MAT0025 E IFD0171 E IFD0173 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0093",
+    "Nome": "PRINCÍPIOS DE CONTROLE",
+    "Horas": "75h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Energia",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0187 ) OU ( FGA0102 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0100",
+    "Nome": "PRÁTICA DE FÍSICA DOS DISPOSITIVOS ELETRÔNICOS",
+    "Horas": "30h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Energia",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0143 ) OU ( FGA0119 E FGA0120 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0101",
+    "Nome": "TEORIA DE FÍSICA DOS DISPOSITIVOS ELETRÔNICOS",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Energia",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0143 ) OU ( FGA0119 E FGA0120 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0107",
+    "Nome": "LABORATÓRIO DE ONDULATÓRIA E FÍSICA TÉRMICA PARA A ENGENHARIA",
+    "Horas": "30h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Energia",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( IFD0171 E IFD0173 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0122",
+    "Nome": "EFICIÊNCIA ENERGÉTICA EM INSTALAÇÕES ELÉTRICAS INDUSTRIAIS",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Energia",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0086 E FGA0087 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0125",
+    "Nome": "INTRODUÇÃO À GEOMETRIA ANALÍTICA",
+    "Horas": "30h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Energia",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0127",
+    "Nome": "EQUAÇÕES DIFERENCIAIS ORDINÁRIAS",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Energia",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0126 E MAT0031 ) OU ( MAT0026 E MAT0031 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0130",
+    "Nome": "REGULAÇÃO AMBIENTAL NO SETOR ENERGÉTICO",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Energia",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0141 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0134",
+    "Nome": "TÓPICOS ESPECIAIS DE ENGENHARIA DE SOFTWARE",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Energia",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0137",
+    "Nome": "SISTEMAS DE BANCO DE DADOS 1",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Energia",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0159 ) OU ( FGA0108 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0138",
+    "Nome": "MÉTODOS DE DESENVOLVIMENTO DE SOFTWARE",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Energia",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0158 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0146",
+    "Nome": "ESTRUTURAS DE DADOS 1",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Energia",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0152",
+    "Nome": "ERGONOMIA DO PRODUTO",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Energia",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0155 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0155",
+    "Nome": "INTRODUÇÃO AO DESIGN E CONCEPÇÃO DE VEÍCULOS",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Energia",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0168 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0158",
+    "Nome": "ORIENTAÇÃO A OBJETOS",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Energia",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( CIC0004 ) OU ( CIC0007 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0159",
+    "Nome": "ESTRUTURAS MATEMÁTICAS PARA COMPUTAÇÃO",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Energia",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0166",
+    "Nome": "ELEMENTOS E MÉTODOS EM ELETRÔNICA",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Energia",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0167",
+    "Nome": "SISTEMAS AUTOMOTIVOS",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Energia",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0171",
+    "Nome": "TÉCNICAS DE PROGRAMAÇÃO",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Energia",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0158 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0172",
+    "Nome": "REQUISITOS DE SOFTWARE",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Energia",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0138 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0173",
+    "Nome": "INTERAÇÃO HUMANO COMPUTADOR",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Energia",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0138 OU FGA0312 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0181",
+    "Nome": "INOVAÇÃO",
+    "Horas": "30h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Energia",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0188",
+    "Nome": "MÉTODOS EXPERIMENTAIS PARA ENGENHARIA",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Energia",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( IFD0173 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0194",
+    "Nome": "ARQUITETURA DE MOTORES DE COMBUSTÃO INTERNA",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Energia",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( ENM0068 OU FGA0076 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0199",
+    "Nome": "PRINCÍPIOS DE COMUNICAÇÃO",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Energia",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0187 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0200",
+    "Nome": "ENGENHARIA DE PRODUTO",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Energia",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0214",
+    "Nome": "TÓPICOS ESPECIAIS EM ENGENHARIA AUTOMOTIVA",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Energia",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0218",
+    "Nome": "INSTRUMENTAÇÃO ELETRÔNICA",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Energia",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0196 ) OU ( FGA0226 ) OU ( FGA0067 E FGA0069 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0219",
+    "Nome": "PROCESSAMENTO DE SINAIS",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Energia",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0187 ) OU ( FGA0102 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0226",
+    "Nome": "ELETRÔNICA VEICULAR",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Energia",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0196 ) OU ( FGA0186 ) OU ( FGA0067 E FGA0069 ) OU ( FGA0086 E FGA0087 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0232",
+    "Nome": "INTEGRAÇÃO E TESTES",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Energia",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0188 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0235",
+    "Nome": "TÓPICOS ESPECIAIS 1 EM ENGENHARIA DE ENERGIA",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Energia",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0238",
+    "Nome": "TESTES DE SOFTWARE",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Energia",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0138 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0247",
+    "Nome": "MÁQUINAS DE FLUXO",
+    "Horas": "75h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Energia",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0204 E ENM0068 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0248",
+    "Nome": "SISTEMAS DE PROPULSÃO HÍBRIDOS",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Energia",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( ENM0080 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0251",
+    "Nome": "CENTRAIS DE GERAÇÃO TERMOELÉTRICA",
+    "Horas": "75h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Energia",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( FGA0091 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0254",
+    "Nome": "CIÊNCIAS AEROESPACIAIS",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Energia",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0261",
+    "Nome": "TÓPICOS ESPECIAIS EM ELETRONICA",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Energia",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0306",
+    "Nome": "ENGENHARIA NUCLEAR",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Energia",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0323",
+    "Nome": "ATIVIDADE COMPLEMENTAR",
+    "Horas": "15h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Energia",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0324",
+    "Nome": "ATIVIDADE COMPLEMENTAR",
+    "Horas": "30h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Energia",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0325",
+    "Nome": "ATIVIDADE COMPLEMENTAR",
+    "Horas": "45h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Energia",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0326",
+    "Nome": "ATIVIDADE COMPLEMENTAR",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Energia",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0327",
+    "Nome": "ATIVIDADE COMPLEMENTAR",
+    "Horas": "90h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Energia",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0328",
+    "Nome": "ATIVIDADE COMPLEMENTAR",
+    "Horas": "120h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Energia",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0330",
+    "Nome": "COMBUSTÍVEIS E BIOCOMBUSTÍVEIS",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Energia",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( FGA0104 )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0332",
+    "Nome": "ANÁLISE INSTRUMENTAL DE COMBUSTÍVEIS",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Energia",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( FGA0330 OU FGA0156 )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0333",
+    "Nome": "DESENVOLVIMENTO SUSTENTÁVEL",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Energia",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0334",
+    "Nome": "SISTEMAS DE INFORMAÇÃO GEOGRÁFICA PARA ENGENHARIA",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Energia",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0335",
+    "Nome": "FONTES DE ENERGIA E TECNOLOGIAS DE CONVERSÃO",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Energia",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0336",
+    "Nome": "PROCESSOS DE REFINO",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Energia",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( FGA0104 E FGA0175 )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0379",
+    "Nome": "FUNDAMENTOS DE PROPULSÃO ELÉTRICA VEICULAR",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Energia",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( FGA0086 E FGA0087 )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FTD0007",
+    "Nome": "INTRODUCAO A ATIVIDADE EMPRESARIAL",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Energia",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "IFD0179",
+    "Nome": "FISICA 3",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Energia",
+    "Nível": "N/A",
+    "Pré-Requisitos": "( ( IFD0175 E MAT0026 ) OU ( IFD0217 E MAT0026 ) OU ( IFD0299 E IFD0302 E MAT0023 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "LIP0174",
+    "Nome": "LÍNGUA DE SINAIS BRASILEIRA - BÁSICO",
+    "Horas": "60h",
+    "Obrigatoriedade": "Optativa",
+    "Curso": "Engenharia de Energia",
+    "Nível": "N/A",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "CIC0004",
+    "Nome": "ALGORITMOS E PROGRAMAÇÃO DE COMPUTADORES",
+    "Horas": "90h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Energia",
+    "Nível": "1º Nível",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0163",
+    "Nome": "INTRODUÇÃO À ENGENHARIA",
+    "Horas": "30h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Energia",
+    "Nível": "1º Nível",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0168",
+    "Nome": "DESENHO INDUSTRIAL ASSISTIDO POR COMPUTADOR",
+    "Horas": "90h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Energia",
+    "Nível": "1º Nível",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0302",
+    "Nome": "ENGENHARIA E AMBIENTE",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Energia",
+    "Nível": "1º Nível",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "MAT0025",
+    "Nome": "CÁLCULO 1",
+    "Horas": "90h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Energia",
+    "Nível": "1º Nível",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0157",
+    "Nome": "PROBABILIDADE E ESTATÍSTICA APLICADO A ENGENHARIA",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Energia",
+    "Nível": "2º Nível",
+    "Pré-Requisitos": "( ( MAT0025 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "IFD0171",
+    "Nome": "FISICA 1",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Energia",
+    "Nível": "2º Nível",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "IFD0173",
+    "Nome": "FISICA 1 EXPERIMENTAL",
+    "Horas": "30h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Energia",
+    "Nível": "2º Nível",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "MAT0026",
+    "Nome": "CÁLCULO 2",
+    "Horas": "90h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Energia",
+    "Nível": "2º Nível",
+    "Pré-Requisitos": "( ( MAT0025 ) OU ( MAT0024 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "MAT0031",
+    "Nome": "INTRODUCAO A ALGEBRA LINEAR",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Energia",
+    "Nível": "2º Nível",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0133",
+    "Nome": "ENGENHARIA ECONÔMICA",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Energia",
+    "Nível": "3º Nível",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0154",
+    "Nome": "MECANICA DOS SÓLIDOS 1 PARA ENGENHARIA",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Energia",
+    "Nível": "3º Nível",
+    "Pré-Requisitos": "( ( IFD0171 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0160",
+    "Nome": "MÉTODOS NUMÉRICOS PARA ENGENHARIA",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Energia",
+    "Nível": "3º Nível",
+    "Pré-Requisitos": "( ( MAT0026 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "IQD0125",
+    "Nome": "QUIMICA GERAL TEORICA",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Energia",
+    "Nível": "3º Nível",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "IQD0126",
+    "Nome": "QUIMICA GERAL EXPERIMENTAL",
+    "Horas": "30h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Energia",
+    "Nível": "3º Nível",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "MAT0027",
+    "Nome": "CÁLCULO 3",
+    "Horas": "90h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Energia",
+    "Nível": "3º Nível",
+    "Pré-Requisitos": "( ( MAT0026 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "ENM0080",
+    "Nome": "FENOMENOS DE TRANSPORTE",
+    "Horas": "75h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Energia",
+    "Nível": "4º Nível",
+    "Pré-Requisitos": "( ( MAT0027 E ENC0132 ) OU ( MAT0027 E ENM0120 ) OU ( MAT0027 E FGA0154 ) OU ( MAT0027 E ENC0035 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0067",
+    "Nome": "TEORIA DE CIRCUITOS ELETRÔNICOS 1",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Energia",
+    "Nível": "4º Nível",
+    "Pré-Requisitos": "( ( MAT0048 ) OU ( MAT0026 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0069",
+    "Nome": "PRÁTICA DE CIRCUITOS ELETRÔNICOS 1",
+    "Horas": "30h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Energia",
+    "Nível": "4º Nível",
+    "Pré-Requisitos": "( ( MAT0048 ) OU ( MAT0026 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0075",
+    "Nome": "LABORATÓRIO DE MATERIAIS DE CONSTRUÇÃO",
+    "Horas": "15h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Energia",
+    "Nível": "4º Nível",
+    "Pré-Requisitos": "( ( IQD0051 ) OU ( IQD0125 E IQD0126 ) )",
+    "Co-Requisitos": "( FGA0078 )"
+  },
+  {
+    "Código": "FGA0078",
+    "Nome": "TEORIA DE MATERIAIS DE CONSTRUÇÃO",
+    "Horas": "45h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Energia",
+    "Nível": "4º Nível",
+    "Pré-Requisitos": "( ( IQD0051 ) OU ( IQD0125 E IQD0126 ) )",
+    "Co-Requisitos": "( FGA0075 )"
+  },
+  {
+    "Código": "FGA0104",
+    "Nome": "QUÍMICA ORGÂNICA APLICADA À ENGENHARIA",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Energia",
+    "Nível": "4º Nível",
+    "Pré-Requisitos": "( ( IQD0125 E IQD0126 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0119",
+    "Nome": "TEORIA DE ELETROMAGNETISMO",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Energia",
+    "Nível": "4º Nível",
+    "Pré-Requisitos": "( ( IFD0171 E MAT0027 ) )",
+    "Co-Requisitos": "( FGA0120 )"
+  },
+  {
+    "Código": "FGA0120",
+    "Nome": "PRÁTICA DE ELETROMAGNETISMO",
+    "Horas": "30h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Energia",
+    "Nível": "4º Nível",
+    "Pré-Requisitos": "( ( IFD0171 E MAT0027 ) )",
+    "Co-Requisitos": "( FGA0119 )"
+  },
+  {
+    "Código": "ENM0068",
+    "Nome": "TERMODINAMICA 1",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Energia",
+    "Nível": "5º Nível",
+    "Pré-Requisitos": "( ( IFD0175 ) OU ( IFD0013 ) OU ( ENM0080 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0086",
+    "Nome": "TEORIA DE ELETRICIDADE APLICADA",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Energia",
+    "Nível": "5º Nível",
+    "Pré-Requisitos": "( ( FGA0187 ) OU ( FGA0067 E FGA0069 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0087",
+    "Nome": "LABORATÓRIO DE ELETRICIDADE APLICADA",
+    "Horas": "30h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Energia",
+    "Nível": "5º Nível",
+    "Pré-Requisitos": "( ( FGA0187 ) OU ( FGA0067 E FGA0069 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0102",
+    "Nome": "SINAIS E SISTEMAS PARA ENGENHARIA",
+    "Horas": "90h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Energia",
+    "Nível": "5º Nível",
+    "Pré-Requisitos": "( ( MAT0027 E CIC0004 ) OU ( MAT0027 E CIC0088 ) OU ( MAT0027 E CIC0007 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0164",
+    "Nome": "HUMANIDADES E CIDADANIA",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Energia",
+    "Nível": "5º Nível",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0204",
+    "Nome": "DINÂMICA DOS FLUÍDOS",
+    "Horas": "75h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Energia",
+    "Nível": "5º Nível",
+    "Pré-Requisitos": "( ( ENM0080 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "ENM0071",
+    "Nome": "TRANSFERENCIA DE CALOR",
+    "Horas": "90h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Energia",
+    "Nível": "6º Nível",
+    "Pré-Requisitos": "( ( ENM0068 E ENM0082 ) OU ( ENM0128 E ENM0082 ) OU ( ENM0068 E FGA0204 ) OU ( ENM0068 E IQD0005 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0088",
+    "Nome": "TEORIA DE SISTEMAS DE CONVERSÃO DE ENERGIA",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Energia",
+    "Nível": "6º Nível",
+    "Pré-Requisitos": "( ( FGA0186 ) OU ( FGA0086 E FGA0087 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0089",
+    "Nome": "LABORATÓRIO DE SISTEMAS DE CONVERSÃO DE ENERGIA",
+    "Horas": "30h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Energia",
+    "Nível": "6º Nível",
+    "Pré-Requisitos": "( ( FGA0186 ) OU ( FGA0086 E FGA0087 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0148",
+    "Nome": "ENGENHARIA DE SEGURANÇA DO TRABALHO",
+    "Horas": "30h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Energia",
+    "Nível": "6º Nível",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0175",
+    "Nome": "ENGENHARIA DE PETRÓLEO E GÁS",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Energia",
+    "Nível": "6º Nível",
+    "Pré-Requisitos": "( ENM0080 )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0295",
+    "Nome": "ATIVIDADE DE EXTENSÃO 1",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Energia",
+    "Nível": "6º Nível",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0307",
+    "Nome": "GESTÃO DA PRODUÇÃO E QUALIDADE",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Energia",
+    "Nível": "6º Nível",
+    "Pré-Requisitos": "( FGA0133 )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0025",
+    "Nome": "SISTEMAS DE ENERGIA SOLAR E EÓLICA",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Energia",
+    "Nível": "7º Nível",
+    "Pré-Requisitos": "( ( FGA0086 E FGA0087 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0091",
+    "Nome": "MÁQUINAS DE FLUIDO",
+    "Horas": "90h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Energia",
+    "Nível": "7º Nível",
+    "Pré-Requisitos": "( FGA0204 )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0262",
+    "Nome": "TRANSMISSÃO E DISTRIBUIÇÃO DE ENERGIA ELÉTRICA",
+    "Horas": "75h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Energia",
+    "Nível": "7º Nível",
+    "Pré-Requisitos": "( ( FGA0086 E FGA0087 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0296",
+    "Nome": "ATIVIDADE DE EXTENSÃO 2",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Energia",
+    "Nível": "7º Nível",
+    "Pré-Requisitos": "( FGA0295 )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0303",
+    "Nome": "PROJETO INTEGRADOR DE ENGENHARIA 1",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Energia",
+    "Nível": "7º Nível",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0305",
+    "Nome": "ECONOMIA DE ENERGIA",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Energia",
+    "Nível": "7º Nível",
+    "Pré-Requisitos": "( FGA0133 )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0141",
+    "Nome": "GESTÃO AMBIENTAL NO SETOR ENERGÉTICO",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Energia",
+    "Nível": "8º Nível",
+    "Pré-Requisitos": "( ( FGA0302 E FGA0307 ) OU ( FGA0161 E FGA0184 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0297",
+    "Nome": "ATIVIDADE DE EXTENSÃO 3",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Energia",
+    "Nível": "8º Nível",
+    "Pré-Requisitos": "( FGA0296 )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0304",
+    "Nome": "PROJETO INTEGRADOR DE ENGENHARIA 2",
+    "Horas": "90h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Energia",
+    "Nível": "8º Nível",
+    "Pré-Requisitos": "( FGA0150 OU FGA0303 )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0329",
+    "Nome": "SISTEMAS HIDROELÉTRICOS",
+    "Horas": "75h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Energia",
+    "Nível": "8º Nível",
+    "Pré-Requisitos": "( FGA0091 )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0287",
+    "Nome": "TRABALHO DE CONCLUSÃO DE CURSO 1",
+    "Horas": "60h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Energia",
+    "Nível": "9º Nível",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0288",
+    "Nome": "ESTÁGIO SUPERVISIONADO",
+    "Horas": "210h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Energia",
+    "Nível": "9º Nível",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0290",
+    "Nome": "TRABALHO DE CONCLUSÃO DE CURSO 2",
+    "Horas": "90h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Energia",
+    "Nível": "10º Nível",
+    "Pré-Requisitos": "( ( FGA0287 ) OU ( FGA0009 ) )",
+    "Co-Requisitos": "-"
+  },
+  {
+    "Código": "FGA0331",
+    "Nome": "ATIVIDADE DE EXTENSÃO 4",
+    "Horas": "45h",
+    "Obrigatoriedade": "Obrigatória",
+    "Curso": "Engenharia de Energia",
+    "Nível": "10º Nível",
+    "Pré-Requisitos": "-",
+    "Co-Requisitos": "-"
+  }
+]

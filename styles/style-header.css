@@ -1,0 +1,228 @@
+/* Box-sizing, align-items, justify, position  */
+*{
+    outline: none;
+    margin: 0;
+    padding: 0;
+}
+
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: sticky;
+    top:0;
+    box-sizing: border-box;
+
+    /* border-bottom: 1px solid #686868; */
+    /* border: 0 solid #e5e7eb; */
+    height: 80px; /*56*/
+    width: 100%;
+    padding: 8px 8px;
+    
+    z-index: 2020;
+
+    background-color: #123C75; /*#007314*/
+}
+
+.logo-wrapper {
+
+    vertical-align: middle;
+    float: left;
+    position: absolute;
+    z-index: 0;
+
+    box-sizing: border-box;
+    margin: 0px 30px;
+    height: 80px;
+    /* padding-left: 60px; */
+
+
+    background-color: inherit;
+}
+
+.logo {
+    float: left;
+    text-align: center;
+    vertical-align: middle;
+
+    height: 80px;
+    width: 80px;
+
+    background-color: red;
+
+    cursor: pointer; 
+}
+
+
+.logo-img {
+    /* float: ; */
+    display: block;
+    margin-left:auto; /*se for display: block*/
+    margin-right:auto;
+    /* text-align: center;  */ /*se for inline*/
+    width: 100%;
+    background-color: yellow;
+    
+}
+
+/*.float-child{
+    /* border: 2px solid yellow; */
+/* } */
+
+.logotipo{
+    float: right;
+
+    margin-top: 35px;
+    margin-left: 5px;
+    min-width: 80px;
+    min-height: 10px;
+
+    /* background-color: green; */   
+}
+
+.titulo-logotipo { /*https://coder-coder.com/display-divs-side-by-side/#:~:text=To%20position%20the%20divs%20side,space%20for%20both%20to%20fit.*/
+    display: block;
+    background-color: #123C75;    /*#191275 #126E75;*/
+    text-align: center;
+
+
+    color:white;
+    font-weight: 400;
+    font-size: 1.25em;
+
+}
+
+.nav-bar{
+    vertical-align: middle;
+    float:right;
+    z-index: 1;
+
+    box-sizing: border-box;
+    margin: auto;
+    padding-right: 0px;
+    /* width: auto; */
+
+    background-color: inherit;
+}
+
+.home{
+    padding: 0 12px;
+    border-radius: 5px;
+    background-color: inherit;
+    /* box-shadow: ; */
+    cursor: pointer;
+    color: white;
+    text-decoration: none;
+}
+
+.about-me{
+    padding: 0 12px;
+    border-radius: 5px;
+    background-color: inherit;
+    /* box-shadow: ; */
+    cursor: pointer;
+    color: white;
+    text-decoration: none;
+}
+
+main {
+    background-color: #f6f9ff;
+}
+
+/* https://www.w3schools.com/tags/tag_header.asp */
+
+@media screen and (max-width: 900px) { 
+    header {
+        height: 68px;
+    }
+
+    .nav-bar{
+        display: block;
+        position: relative;
+        margin: 0;
+        border-radius: 8px;
+        /* background-color: red; */
+        width: 40%;
+        color: white;
+    }
+
+    .logo-wrapper{
+        position: relative;
+        min-width: 250px;
+        height: 68px;
+    }
+
+    .logo {
+        width: 68px;
+        height: 68px;
+    }
+
+    .logotipo {
+        margin-top: 25px;
+    }
+}
+
+@media screen and (max-width: 650px){
+    header {
+        height: 56px;
+    }
+
+    .nav-bar {
+        background-color: unset;
+        margin-left: 10px;
+    }
+
+    .home, .about-me {
+        background-color: unset;
+        margin-top: 40px;
+        font-size: 1em;
+        padding: 5px;
+    }
+
+    .logo-wrapper{
+        display: flex;
+        height: 56px;
+        margin-right: 0px;
+        /* background-color: red; */
+    }
+
+    .logo-wrapper h3 {
+        font-size: 1.05em; /*Consertar para galaxy s8+*/
+        text-align: left;
+    }
+    
+    .logo {
+        width: 56px;
+        height: 56px;
+    }
+
+    .logotipo {
+        margin-top: 0;
+        display: flex;
+        align-items: center;
+        background-color: inherit;
+        
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .home, .about-me {
+        font-size: 0.8em;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .logo-wrapper h3 {
+        font-size: 0.8em; /*Consertar para galaxy s8+*/
+        text-align: left;
+    }
+
+    .home, .about-me {
+        font-size: 0.7em;
+    }
+
+    .logo-wrapper {
+        min-width: 200px;
+    }
+}

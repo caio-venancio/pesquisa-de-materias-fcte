@@ -1,0 +1,159 @@
+Ajeitar a barra de pesquisa (search)
+    FEITO
+
+Colocar mais informações no card
+    FEITO
+
+Colocar mais de um curso
+    Colocar cursos na div de obrigatorio ou na div de optativos.
+        FEITO
+
+    Ajustar os botões para apresentar os obrigatorios e optativas
+        FEITO
+    
+Colocar uma tag no card sobre os cursos daquela matéria
+    FEITO
+
+Fazer uma barra de pesquisa por critério
+    FEITO
+
+Consertar filtro para optativas e obrigatorias
+    FEITO
+
+Ajustar para ter dois filtros
+    FEITO
+
+Colocar favicon
+    FEITO
+
+Consertar para mostrar se os cursos debaixo são optativos ou não.
+    FEITO
+
+Minimum viable product: Dia 26/09
+    Criar header
+        FEITO
+
+    criar página about us
+        FEITO
+
+    criar footer
+        FEITO
+
+    Limpar os dados
+        FEITO
+
+    Testar (Barra de quantidade)
+        FEITO
+    
+    Número de resultados
+        FEITO
+
+    Adicionar recursos ainda importantes. (Nível)
+        FEITO
+
+    Fazer os botões reagirem ao hover (animação)
+        FEITO
+
+    Adicionar links para o Sigaa.
+        FEITO
+
+    Terminar de deixar bonito e responsivo.
+        FEITO
+
+    Criar uma logo (para favicon e para site)
+        Filtragem de matérias, Pesquisa de matérias
+        (sua estrutura curricular, para você.)
+        Esperar o Noboru ou Fazer.
+
+    melhorar Header
+        FEITO
+        Talvez distanciar sobre e home mais
+            FEITO
+
+    melhorar página about us
+        Textos
+            Código no github
+                CONFIRMADO - fazer
+
+            Link para meu twitter
+                CONVERSAR COM O LUCIANO
+
+            buy me a coffee? -> procurar na documentação de suagradeunb o que eles fizeram.
+                CONVERSAR COM O LUCIADO TOLEDO
+
+            Justificar texto
+                CANCELADO
+            Estilizar link
+                FEITO
+
+            Colocar link para a estrutura curricular de cada curso
+                CONFIRMADO - fazer
+
+            Consertar texto
+                CONFIRMADO - fazer
+
+            Adicionar contatos
+                CONVERSAR COM O LUCIANO
+
+        Imagens
+            Da estrutura curricular para o site
+        
+    	Falar como funciona e dizer que só pega a estrutura curricular mais recente.
+            FEITO
+    
+    Melhorar footer
+        Futher Engage the user -> Colabore?
+        link to social media -> twitter
+            CONVERSAR COM O LUCIANO
+        Links to url queries -> como funciona?
+        Include a CTA -> donate
+            CONVERSAR COM O LUCIANO
+        Provide more resources -> contato
+
+    Deixar os botões mais responsivos
+        FEITO
+
+    Colocar co-requisitos da matéria
+        FEITO
+
+    Assegurar que o "Nível" está certo
+
+    Consertar o layout de nível-div
+        FEITO
+
+    Pesquisa de nível (Fluxograma)
+        FEITO
+
+    Avisar qual ano está sendo utilizado cada edital
+
+    Testar condições específicas
+
+    Consultar professores
+    
+    Consultar Amigos
+
+    Adaptar para celulares também
+        Alterar texto dentro da barra de pesquisa
+
+    Colocar donate
+
+    modo noturno
+
+Colocar sort (sort divs)
+    FEITO
+
+Colocar fixar
+
+Fazer favicon animado
+
+Os cards vão mudar dependendo da situação? talvez poderiamos fazer o texto pesquisado ser selecionado.
+    Fazer a seleção brilhar
+
+Fazer ranking de dificuldade e de favoritismo
+    Raio: dificuldade
+    Coração: o quanto a pessoa gostou da disciplina (sem ter relação com o professor)
+
+
+
+
+
