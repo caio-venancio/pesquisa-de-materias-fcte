@@ -1,0 +1,145 @@
+/* ==========================================================================
+   Tema / Modo noturno
+   --------------------------------------------------------------------------
+   Os CSS originais usam cores fixas (ex.: #ffffff, #f5f8ff) espalhadas.
+   Em vez de reescrever todos eles, este arquivo sobrescreve as cores quando
+   o atributo data-theme="dark" esta presente em <html>. O toggle e a
+   persistencia ficam em scripts/theme.js.
+   ========================================================================== */
+
+:root {
+    --page-bg: #f5f8ff;
+    --surface: #ffffff;
+    --text: #110f29;
+    --accent: #123c75;
+}
+
+/* Botao de alternar tema (header) */
+.theme-toggle {
+    margin-left: 12px;
+    padding: 6px 10px;
+    border-radius: 6px;
+    background-color: transparent;
+    color: #ffffff;
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    cursor: pointer;
+    font-size: 1.1em;
+    line-height: 1;
+}
+
+.theme-toggle:hover {
+    background-color: rgba(255, 255, 255, 0.15);
+}
+
+/* --------------------------------------------------------------------------
+   Modo noturno
+   -------------------------------------------------------------------------- */
+html[data-theme="dark"] {
+    --page-bg: #0f1420;
+    --surface: #1a2130;
+    --text: #e6e9f0;
+    --accent: #5b8fd6;
+}
+
+/* Fundo de pagina */
+html[data-theme="dark"] body {
+    background-color: var(--page-bg);
+    color: var(--text);
+}
+
+/* nav-buttons.css usa "*" com background #f5f8ff; neutralizamos no dark */
+html[data-theme="dark"] .wrapper,
+html[data-theme="dark"] #search-container,
+html[data-theme="dark"] #buttons1,
+html[data-theme="dark"] #buttons2 {
+    background-color: var(--page-bg);
+}
+
+html[data-theme="dark"] .filter-wrapper {
+    background-color: var(--surface);
+    border-color: #2b3448;
+}
+
+html[data-theme="dark"] #Resultados {
+    background-color: var(--page-bg);
+    color: var(--text);
+}
+
+/* Cards e seus textos */
+html[data-theme="dark"] .card,
+html[data-theme="dark"] .container,
+html[data-theme="dark"] .product-name,
+html[data-theme="dark"] .container h5,
+html[data-theme="dark"] .container h4,
+html[data-theme="dark"] .container h6 {
+    background-color: var(--surface);
+    color: var(--text);
+}
+
+html[data-theme="dark"] .container {
+    color: var(--text);
+}
+
+/* Botoes de filtro */
+html[data-theme="dark"] .button-value {
+    color: var(--accent);
+    border-color: var(--accent);
+}
+
+html[data-theme="dark"] .button-value.active,
+html[data-theme="dark"] #search-container button {
+    background-color: var(--accent);
+    color: #0f1420;
+}
+
+/* Barra de busca */
+html[data-theme="dark"] #search-container input {
+    color: var(--text);
+}
+
+/* Dropdown de ordenacao */
+html[data-theme="dark"] .filter-button,
+html[data-theme="dark"] .filter-item,
+html[data-theme="dark"] .filter-item button {
+    background-color: #2b3448;
+    color: var(--text);
+}
+
+/* Footer */
+html[data-theme="dark"] .footer-section,
+html[data-theme="dark"] .footer-div {
+    background-color: #161c28;
+    color: var(--text);
+}
+
+/* Pagina Sobre */
+html[data-theme="dark"] .what-section,
+html[data-theme="dark"] .how-section,
+html[data-theme="dark"] .action-section,
+html[data-theme="dark"] .what-div,
+html[data-theme="dark"] .how-div,
+html[data-theme="dark"] .action-div {
+    background-color: var(--surface);
+    color: var(--text);
+}
+
+html[data-theme="dark"] .action-section {
+    background-color: #16304a;
+}
+
+html[data-theme="dark"] .consulta-button {
+    background-color: var(--surface);
+    color: var(--text);
+}
+
+html[data-theme="dark"] .consulta-content {
+    background-color: #2b3448;
+}
+
+html[data-theme="dark"] .consulta-content a {
+    color: var(--text);
+}
+
+html[data-theme="dark"] a {
+    color: var(--accent);
+}

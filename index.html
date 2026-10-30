@@ -10,6 +10,8 @@
     <link rel="stylesheet" href="styles/style-header.css">
     <link rel="stylesheet" href="styles/style-footer.css">
     <link rel="stylesheet" href="styles/style-products.css">
+    <link rel="stylesheet" href="styles/style-theme.css">
+    <script src="scripts/theme.js"></script>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
     <link rel="icon" type="image/x-icon" href="images/favicon-2.ico">
 </head>
@@ -43,6 +45,8 @@
                     <input
                     type="search"
                     id="search-input"
+                    data-placeholder-full="Procure a matéria aqui"
+                    data-placeholder-short="Procurar matéria"
                     placeholder="Procure a matéria aqui"/>
                     <button id="search" onclick="filtragem('barraDePesquisa', 0, 1)">Procurar</button>
                 </div>
@@ -96,6 +100,7 @@
     <!-- script -->
     <script src="scripts/filterFunction.js"></script>
     <script src="scripts/sortFunction.js"></script>
+    <script src="scripts/responsive.js"></script>
     <!-- <script src="scripts/secondFilter.js"></script> -->
     <!-- <script id="data" type="application/json" src="./data/estru_auto.json"></script> -->
 </body>

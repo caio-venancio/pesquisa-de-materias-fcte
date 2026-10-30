@@ -76,12 +76,16 @@ Mantendo simples: Python puro, scripts executáveis à mão, saída direta em `d
 - [ ] `requirements.txt` do pipeline + um `README` curto de como regenerar os dados
 - [ ] Registrar o **ano/semestre do edital** capturado (alimenta o aviso da Fase 3)
 
-## Fase 5 — Polimento de UX (itens desejados no to-do)
+## Fase 5 — Polimento de UX (itens desejados no to-do) ✅ (parcial)
 
-- [ ] **Modo noturno** (dark mode) — **A DEFINIR / a fazer**
-- [ ] Responsividade mobile — revisar e finalizar (incl. texto da barra de pesquisa no celular)
-- [ ] Destaque/realce do termo pesquisado nos cards (desejado no to-do) — opcional
-- [ ] Favicon/arte final quando o logo chegar
+- [x] **Modo noturno** (dark mode)
+  - `styles/style-theme.css` (overrides via `html[data-theme="dark"]`, sem reescrever os CSS existentes)
+  - `scripts/theme.js`: toggle no header (sol/lua), persistencia em localStorage, respeita `prefers-color-scheme`, aplicado antes do render para evitar flash
+- [x] Responsividade mobile — barra de busca
+  - Media query em `style-nav-buttons.css` (input/botao 100% em telas <= 650px)
+  - `scripts/responsive.js`: placeholder encurtado no mobile (item do to-do)
+- [ ] Destaque/realce do termo pesquisado nos cards — **opcional, não feito** (mexe na renderizacao/filtro; risco maior, adiado)
+- [ ] Favicon/arte final quando o logo chegar — depende do logo (Noboru)
 
 ## Fase 6 — Qualidade de código (sem complicar a stack)
 

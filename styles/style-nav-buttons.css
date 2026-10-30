@@ -98,6 +98,24 @@
     background-color: #123C75;
 }
 
+/* Responsividade da barra de busca em telas pequenas */
+@media screen and (max-width: 650px) {
+    #search-container input {
+        width: 100%;
+        display: block;
+    }
+
+    #search-container button {
+        margin-left: 0;
+        width: 100%;
+    }
+
+    .button-value {
+        padding: 0.7em 1.1em;
+        font-size: 0.85em;
+    }
+}
+
 
 
 /* .button-value.active:hover { //perguntar Geovana
