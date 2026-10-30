@@ -32,10 +32,10 @@ Sem isto o site quebra no GitHub Pages.
   - [x] Varrer o repo atrás de qualquer outro caminho iniciado por `/` (nenhum restante)
 - [x] **Validar os `fetch('./data/*.json')`** continuam resolvendo a partir de `index.html` (já eram relativos)
 
-## Fase 1 — Publicar no GitHub Pages
+## Fase 1 — Publicar no GitHub Pages 🚧 EM ANDAMENTO
 
-- [ ] Adicionar `.nojekyll` na raiz (evita o Jekyll processar/ocultar arquivos)
-- [ ] Decidir método de deploy (mais simples): **Settings → Pages → Deploy from a branch → `main` / root**
+- [x] Adicionar `.nojekyll` na raiz (evita o Jekyll processar/ocultar arquivos)
+- [x] Método de deploy escolhido (mais simples): **Deploy from a branch → `main` / root**
   - Alternativa equivalente: workflow mínimo de Pages (só se preferir CI). Mantido como opção, não padrão.
 - [ ] Publicar e **conferir a URL no ar** (home, navegação para Sobre, carregamento dos cards, filtros, ordenação)
 
