@@ -42,14 +42,21 @@ header {
 }
 
 .logo {
+    /* Placeholder temporario ate o logo oficial (SVG, por Noboru) ficar pronto. */
     float: left;
-    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     vertical-align: middle;
 
     height: 80px;
     width: 80px;
 
-    background-color: red;
+    border-radius: 10px;
+    background-color: #0e2f5c;
+    color: #ffffff;
+    font-weight: 600;
+    font-size: 1.6em;
 
     cursor: pointer; 
 }

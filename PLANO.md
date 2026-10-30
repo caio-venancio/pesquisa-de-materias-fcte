@@ -51,18 +51,19 @@ Sem isto o site quebra no GitHub Pages.
 - [x] `.gitignore` — artefatos Python do scraper, lixo de SO/editor
   - Nota: `.vscode/` deixado versionado (já estava no repo); não removido sem pedido
 
-## Fase 3 — Limpeza e placeholders do site
+## Fase 3 — Limpeza e placeholders do site ✅ CONCLUÍDA
 
-- [ ] `index.html` / `sobre.html`: substituir texto placeholder **"Logo"** no header
-  - **Logo final: PENDENTE EXTERNO — Noboru fará o SVG.** Usar placeholder decente até lá.
-- [ ] Página **Sobre**: resolver placeholders
-  - [ ] "Como funciona?" → texto real (hoje: `C.V.R. :D`)
-  - [ ] "Imagem do autor" / "Imagem da documentação" → imagem real ou remover a caixa
-  - [ ] "Olá! Eu sou Caio. Alguns links aí:" → **links PENDENTES (A DEFINIR pelo autor)**: GitHub do projeto, Twitter/LinkedIn
-  - [ ] Imagem `Captura de Tela (3).png` está forçada a 80px — ajustar
-- [ ] Remover/mover `header.html` da raiz (parece rascunho; candidato a ir para `doc/` ou ser apagado)
-- [ ] Remover imagens não usadas de `images/` (ex.: `Fate-Stay-night-*.jpg`, `logo-dalle-*`) após confirmar que não são referenciadas
-- [ ] **Aviso de ano/edital** de cada estrutura curricular (listado no to-do) — **ano A DEFINIR**
+- [x] `index.html` / `sobre.html`: substituir texto placeholder **"Logo"** no header
+  - Placeholder melhorado (quadrado azul "PM" no CSS, sem o vermelho cru).
+  - **Logo final: PENDENTE EXTERNO — Noboru fará o SVG.**
+- [x] Página **Sobre**: resolver placeholders
+  - [x] "Como funciona?" → texto real (substituiu `C.V.R. :D`)
+  - [x] "Imagem do autor" / "Imagem da documentação" → caixas comentadas (ocultas) com TODO até ter imagem
+  - [x] Contato → link real do **GitHub do projeto** adicionado; redes sociais como TODO (A DEFINIR)
+  - [x] Imagem `Captura de Tela (3).png` → agora responsiva (width 100%, era 80px fixo)
+- [x] Remover `header.html` da raiz (era rascunho, não linkado)
+- [x] Remover imagens não usadas: `Fate-Stay-night-*.jpg`, `logo-dalle-1/2.jpg`, `favicon-1.ico`
+- [x] **Aviso de ano/edital** → nota adicionada na Sobre com TODO (**ano ainda A DEFINIR**)
 
 ## Fase 4 — Pipeline de dados (scraper/parser) — pastas hoje vazias
 
