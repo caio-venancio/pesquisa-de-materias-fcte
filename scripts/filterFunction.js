@@ -292,7 +292,7 @@ function easterEgg(){
 
     let easter_egg_image = document.createElement('img')
     easter_egg_image.classList.add('image-normalizer')
-    easter_egg_image.setAttribute('src', '/images/smug.png')
+    easter_egg_image.setAttribute('src', 'images/smug.png')
 
     let elemento = document.querySelector(".text2-footer")
     if(counter >= 10) {
