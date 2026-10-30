@@ -32,12 +32,15 @@ Sem isto o site quebra no GitHub Pages.
   - [x] Varrer o repo atrás de qualquer outro caminho iniciado por `/` (nenhum restante)
 - [x] **Validar os `fetch('./data/*.json')`** continuam resolvendo a partir de `index.html` (já eram relativos)
 
-## Fase 1 — Publicar no GitHub Pages 🚧 EM ANDAMENTO
+## Fase 1 — Publicar no GitHub Pages ✅ CONCLUÍDA
 
 - [x] Adicionar `.nojekyll` na raiz (evita o Jekyll processar/ocultar arquivos)
 - [x] Método de deploy escolhido (mais simples): **Deploy from a branch → `main` / root**
   - Alternativa equivalente: workflow mínimo de Pages (só se preferir CI). Mantido como opção, não padrão.
-- [ ] Publicar e **conferir a URL no ar** (home, navegação para Sobre, carregamento dos cards, filtros, ordenação)
+- [x] Pages ativado e **site no ar**: https://caio-venancio.github.io/pesquisa-de-materias-fcte/
+  - Home (HTTP 200, title correto), `sobre.html` (200) e `data/*.json` (200) verificados.
+  - HTTPS forçado habilitado.
+  - Pendente de teste manual no navegador: interação de filtros e ordenação (JS roda só no cliente).
 
 ## Fase 2 — README e documentação do repositório
 
