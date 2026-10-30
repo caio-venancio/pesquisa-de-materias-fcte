@@ -1,0 +1,25 @@
+# Python (pipeline scraper/parser)
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.pytest_cache/
+
+# Dados brutos baixados pelo scraper (o JSON final em data/ é versionado)
+scraper/raw/
+*.tmp
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores / IDEs
+.idea/
+*.swp
+*~
+
+# Logs
+*.log

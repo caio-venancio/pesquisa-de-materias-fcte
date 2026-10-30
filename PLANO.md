@@ -42,12 +42,14 @@ Sem isto o site quebra no GitHub Pages.
   - HTTPS forçado habilitado.
   - Pendente de teste manual no navegador: interação de filtros e ordenação (JS roda só no cliente).
 
-## Fase 2 — README e documentação do repositório
+## Fase 2 — README e documentação do repositório ✅ CONCLUÍDA
 
-- [ ] Reescrever `README.md`: o que é, screenshot, como rodar localmente, como funciona, estrutura de pastas, dados/ano do edital, créditos, licença
-- [ ] `CONTRIBUTING.md` (o README atual promete) — como reportar bug, rodar local, abrir PR
-- [ ] `LICENSE` (open-source, conforme decisão em `doc/elaborate.txt`) — **definir qual (sugestão: MIT)**
-- [ ] `.gitignore` (ex.: artefatos do Python do scraper, `__pycache__`, venv, etc.)
+- [x] Reescrever `README.md`: o que é, como rodar localmente, como funciona, estrutura de pastas, dados, créditos, licença
+  - Pendente: adicionar **screenshot** e o **ano do edital** (a definir)
+- [x] `CONTRIBUTING.md` — como reportar bug, rodar local, abrir PR
+- [x] `LICENSE` — **MIT** adotada (decisão em `doc/elaborate.txt` por open-source)
+- [x] `.gitignore` — artefatos Python do scraper, lixo de SO/editor
+  - Nota: `.vscode/` deixado versionado (já estava no repo); não removido sem pedido
 
 ## Fase 3 — Limpeza e placeholders do site
 
